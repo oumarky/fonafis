@@ -1,0 +1,1518 @@
+# Translation of Plugins - WP Statistics – Simple, privacy-friendly Google Analytics alternative - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WP Statistics – Simple, privacy-friendly Google Analytics alternative - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-07-22 07:56:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WP Statistics – Simple, privacy-friendly Google Analytics alternative - Stable (latest release)\n"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:442
+msgid "Go to Overview"
+msgstr "Aller à la vue d’ensemble"
+
+#: includes/admin/templates/pages/category-analytics/category-performance.php:104
+msgid "Lists the top categories by views and published contents within each category."
+msgstr "Répertorie les principales catégories en fonction du nombre de vues et du contenu publié dans chaque catégorie."
+
+#: includes/admin/templates/pages/category-analytics/category-performance.php:119
+msgid "Lists the top authors by the number of views their content has received and the number of content items they have published."
+msgstr "Répertorie les principaux auteurs en fonction du nombre de vues de leur contenu et du nombre d’éléments de contenu qu’ils ont publiés."
+
+#: includes/admin/templates/pages/category-analytics/category-performance.php:103
+#: includes/admin/templates/pages/content-analytics/post-type.php:67
+msgid "Top Categories"
+msgstr "Principales catégories"
+
+#: includes/admin/templates/pages/category-analytics/category-performance.php:111
+#: includes/admin/templates/pages/category-analytics/category-single.php:100
+msgid "Top Contents"
+msgstr "Principaux contenus"
+
+#: includes/admin/templates/pages/content-analytics/post-type.php:112
+msgid "Top %s"
+msgstr "Principaux/principales %s"
+
+#: includes/admin/templates/pages/category-analytics/category-performance.php:138
+#: includes/admin/templates/pages/category-analytics/category-single.php:120
+#: includes/admin/templates/pages/content-analytics/post-type.php:132
+#: includes/admin/templates/pages/content-analytics/single-resource.php:82
+#: includes/admin/templates/pages/content-analytics/single.php:136
+msgid "The top referring domains."
+msgstr "Les principaux domaines référents."
+
+#: includes/admin/templates/layout/content-analytics/top-picks.php:111
+msgid "See all %s"
+msgstr "Voir tous %s"
+
+#: includes/admin/templates/layout/content-analytics/top-categories.php:40
+msgid "published %s"
+msgstr "%s publié"
+
+#: includes/admin/templates/layout/category-analytics/top-picks.php:109
+msgid "See all contents"
+msgstr "Voir tous les contenus"
+
+#: includes/admin/templates/layout/category-analytics/top-picks.php:79
+#: includes/admin/templates/layout/content-analytics/top-picks.php:82
+msgid "Recent"
+msgstr "Récent"
+
+#: includes/admin/templates/layout/category-analytics/top-picks.php:62
+#: includes/admin/templates/layout/content-analytics/top-picks.php:64
+msgid "comments"
+msgstr "commentaires"
+
+#: includes/admin/templates/layout/category-analytics/top-picks.php:37
+#: includes/admin/templates/layout/category-analytics/top-picks.php:90
+#: includes/admin/templates/layout/content-analytics/top-picks.php:37
+#: includes/admin/templates/layout/content-analytics/top-picks.php:93
+msgid "views"
+msgstr "vues"
+
+#: includes/admin/templates/layout/category-analytics/top-picks.php:26
+#: includes/admin/templates/layout/content-analytics/top-picks.php:26
+msgid "Most Popular"
+msgstr "Le plus populaire"
+
+#: includes/admin/templates/layout/category-analytics/top-category.php:81
+msgid "See all categories"
+msgstr "Voir toutes les catégories"
+
+#: includes/admin/templates/layout/category-analytics/top-category.php:63
+msgid "contents published"
+msgstr "contenus publiés"
+
+#: includes/admin/templates/layout/category-analytics/top-authors.php:74
+msgid "content published"
+msgstr "contenu publié"
+
+#: includes/admin/templates/layout/category-analytics/top-authors.php:39
+#: includes/admin/templates/layout/category-analytics/top-category.php:36
+msgid "content views"
+msgstr "vues de contenu"
+
+#: includes/admin/templates/layout/category-analytics/top-picks.php:51
+#: includes/admin/templates/layout/content-analytics/top-picks.php:53
+msgid "Most Commented"
+msgstr "Les plus commentées"
+
+#: src/Service/Admin/Metabox/Metaboxes/TopDeviceModel.php:30
+msgid "View Top Models"
+msgstr "Voir les principaux modèles"
+
+#: includes/admin/templates/layout/author-analytics/top-authors.php:194
+msgid "See all authors"
+msgstr "Voir tous les auteurs/autrices"
+
+#: includes/admin/templates/layout/author-analytics/top-authors.php:174
+msgid "words/%s"
+msgstr "mots/%s"
+
+#: includes/admin/templates/pages/author-analytics/authors-report.php:66
+msgid "Words/%s"
+msgstr "Mots/%s"
+
+#: includes/admin/templates/layout/author-analytics/top-authors.php:142
+msgid "comments/%s"
+msgstr " commentaires/%s"
+
+#: includes/admin/templates/layout/author-analytics/top-authors.php:111
+msgid "views/%s"
+msgstr "vues/%s"
+
+#: includes/admin/templates/layout/author-analytics/top-authors.php:78
+msgid "%s published"
+msgstr "%s publié"
+
+#: includes/admin/templates/layout/author-analytics/top-authors.php:62
+#: includes/admin/templates/layout/category-analytics/top-authors.php:58
+#: includes/admin/templates/layout/category-analytics/top-category.php:53
+msgid "Publishing"
+msgstr "Publication"
+
+#: includes/admin/templates/layout/author-analytics/top-authors.php:48
+msgid "%s views"
+msgstr "%s vues"
+
+#: includes/admin/templates/pages/author-analytics/authors-performance.php:84
+#: includes/admin/templates/pages/category-analytics/category-performance.php:118
+msgid "Top Authors"
+msgstr "Principaux auteurs/autrices"
+
+#: includes/admin/templates/settings/notifications.php:113
+#: includes/class-wp-statistics-widget.php:97
+#: includes/class-wp-statistics-widget.php:296
+#: views/components/session-details.php:142
+#: views/components/tables/latest-referrals.php:35
+#: views/components/tables/referred-visitors.php:35
+#: views/components/tables/top-visitors.php:20
+#: views/components/tables/views.php:27 views/components/tables/visitors.php:45
+msgid "Total Views"
+msgstr "Total des vues"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:330
+#: includes/admin/class-wp-statistics-admin-assets.php:367
+#: includes/admin/class-wp-statistics-admin-assets.php:436
+#: includes/admin/class-wp-statistics-admin-network.php:60
+#: includes/admin/class-wp-statistics-admin-user.php:36
+#: includes/admin/templates/emails/layout.php:165
+#: includes/admin/templates/layout/author-analytics/top-authors.php:33
+#: includes/admin/templates/layout/category-analytics/top-authors.php:23
+#: includes/admin/templates/layout/category-analytics/top-category.php:26
+#: includes/admin/templates/optimization/purging.php:242
+#: includes/admin/templates/pages/author-analytics/authors-performance.php:36
+#: includes/admin/templates/pages/category-analytics/category-performance.php:27
+#: includes/admin/templates/pages/category-analytics/category-report.php:30
+#: includes/admin/templates/pages/category-analytics/category-single.php:27
+#: includes/admin/templates/pages/content-analytics/post-type.php:31
+#: includes/admin/templates/pages/content-analytics/single-resource.php:21
+#: includes/admin/templates/pages/content-analytics/single.php:26
+#: includes/admin/templates/pages/geographic/cities.php:33
+#: includes/admin/templates/pages/geographic/countries.php:31
+#: includes/admin/templates/pages/geographic/europe.php:30
+#: includes/admin/templates/pages/geographic/regions.php:26
+#: includes/admin/templates/pages/geographic/us.php:26
+#: includes/admin/templates/settings/add-ons/mini-chart.php:84
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:37
+#: includes/class-wp-statistics-shortcode.php:287
+#: src/Service/Admin/MiniChart/MiniChartHelper.php:112
+#: src/Service/Admin/VisitorInsights/Views/TabsView.php:124
+#: src/Service/Charts/DataProvider/PerformanceChartDataProvider.php:71
+#: src/Service/Charts/DataProvider/PerformanceChartDataProvider.php:113
+#: src/Service/Charts/DataProvider/TrafficChartDataProvider.php:51
+#: src/Service/Charts/DataProvider/TrafficChartDataProvider.php:65
+#: views/components/tables/404.php:23
+#: views/components/tables/geographic-top-cities.php:38
+#: views/components/tables/geographic-top-countries.php:35
+#: views/components/tables/most-active-visitors.php:18
+#: views/components/tables/summary.php:24
+#: views/components/tables/top-report.php:34
+#: views/components/traffic-summary.php:34
+#: views/metabox/currently-online.php:32 views/metabox/latest-visitor.php:29
+#: views/metabox/most-active-visitors.php:18
+#: views/metabox/most-visited-pages.php:25
+#: views/metabox/traffic-overview.php:58 views/metabox/traffic-overview.php:91
+#: views/metabox/traffic-summary.php:31
+#: views/pages/page-insights/overview.php:29
+#: views/pages/page-insights/overview.php:87
+#: views/pages/page-insights/overview.php:150
+#: views/pages/visitor-insights/overview.php:24
+msgid "Views"
+msgstr "Vues"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:432
+#: views/metabox/currently-online.php:29 views/metabox/latest-visitor.php:26
+msgid "Latest Page"
+msgstr "Dernière page"
+
+#: includes/class-wp-statistics-widget.php:16
+msgid "Display Site Statistics in Sidebar."
+msgstr "Afficher les statistiques du site dans la barre latérale."
+
+#: src/Service/Admin/Metabox/Metaboxes/SearchEngines.php:29
+msgid "View Referrals from Search Engines"
+msgstr "Afficher les références des moteurs de recherche"
+
+#: includes/class-wp-statistics-purge.php:51
+#: includes/class-wp-statistics-purge.php:87
+#: includes/class-wp-statistics-purge.php:100
+#: includes/class-wp-statistics-purge.php:166
+msgid "No Records to Purge from %s!"
+msgstr "Aucun enregistrement à purger depuis %s !"
+
+#: includes/class-wp-statistics-purge.php:208
+msgid "No Visitor Records Found for Purging."
+msgstr "Aucun enregistrement de visite trouvé pour la purge."
+
+#: src/Service/Admin/Metabox/Metaboxes/SearchEngines.php:15
+msgid "Referrals from Search Engines"
+msgstr "Références depuis les moteurs de recherche"
+
+#: includes/admin/templates/settings/advanced.php:139
+#: includes/admin/templates/settings/advanced.php:150
+msgid "Specify a Custom Header for IP Detection"
+msgstr "Spécifier un en-tête personnalisé pour la détection d’IP"
+
+#: includes/admin/templates/settings/advanced.php:126
+msgid "Main IP Detection Method"
+msgstr "Méthode principale de détection d’IP"
+
+#: includes/class-wp-statistics-db.php:190
+msgid "Error: %s Table Not Cleared!"
+msgstr "Erreur : table %s non effacée !"
+
+#: includes/admin/templates/settings/privacy.php:53
+msgid "Data Protection"
+msgstr "Protection des données"
+
+#: includes/admin/templates/settings/notifications.php:75
+msgid "Delivery Method"
+msgstr "Méthode de livraison"
+
+#: includes/admin/templates/settings/privacy.php:120
+msgid "User Preferences"
+msgstr "Préférences de l’utilisateur/utilisatrice"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:409
+#: includes/admin/templates/layout/author-analytics/top-authors.php:55
+#: includes/admin/templates/layout/author-analytics/top-authors.php:85
+#: includes/admin/templates/layout/author-analytics/top-authors.php:118
+#: includes/admin/templates/layout/author-analytics/top-authors.php:149
+#: includes/admin/templates/layout/author-analytics/top-authors.php:181
+#: includes/admin/templates/layout/category-analytics/top-authors.php:47
+#: includes/admin/templates/layout/category-analytics/top-authors.php:82
+#: includes/admin/templates/layout/category-analytics/top-category.php:44
+#: includes/admin/templates/layout/category-analytics/top-category.php:71
+#: includes/admin/templates/layout/category-analytics/top-picks.php:45
+#: includes/admin/templates/layout/category-analytics/top-picks.php:70
+#: includes/admin/templates/layout/category-analytics/top-picks.php:98
+#: includes/admin/templates/layout/content-analytics/top-categories.php:48
+#: includes/admin/templates/layout/content-analytics/top-picks.php:45
+#: includes/admin/templates/layout/content-analytics/top-picks.php:72
+#: includes/admin/templates/layout/content-analytics/top-picks.php:101
+#: includes/admin/templates/pages/author-analytics/authors-report.php:120
+#: includes/admin/templates/pages/category-analytics/category-report.php:75
+#: includes/admin/templates/pages/devices/browsers.php:62
+#: includes/admin/templates/pages/devices/categories.php:52
+#: includes/admin/templates/pages/devices/models.php:52
+#: includes/admin/templates/pages/devices/platforms.php:54
+#: includes/admin/templates/pages/devices/single-browser.php:51
+#: includes/admin/templates/pages/exclusions.php:62
+#: includes/admin/templates/pages/geographic/cities.php:73
+#: includes/admin/templates/pages/geographic/countries.php:83
+#: includes/admin/templates/pages/geographic/europe.php:82
+#: includes/admin/templates/pages/geographic/regions.php:51
+#: includes/admin/templates/pages/geographic/us.php:51
+#: views/components/tables/404.php:44
+#: views/components/tables/author-pages.php:64
+#: views/components/tables/category-pages.php:59
+#: views/components/tables/latest-referrals.php:108
+#: views/components/tables/online.php:73
+#: views/components/tables/recent-events.php:75
+#: views/components/tables/recent-views.php:45
+#: views/components/tables/referred-visitors.php:109
+#: views/components/tables/referrers.php:66
+#: views/components/tables/source-categories.php:47
+#: views/components/tables/summary.php:42
+#: views/components/tables/top-countries.php:54
+#: views/components/tables/top-entry-pages.php:67
+#: views/components/tables/top-referrers.php:52
+#: views/components/tables/top-referring.php:50
+#: views/components/tables/top-report.php:111
+#: views/components/tables/top-visitors.php:105
+#: views/components/tables/views.php:84
+#: views/components/tables/visitors.php:132
+#: views/pages/referrals/source-categories.php:66
+#: views/pages/tracker-debugger/tracker-debugger.php:408
+msgid "No recent data available."
+msgstr "Aucune donnée récente n’est disponible."
+
+#: includes/class-wp-statistics-shortcode.php:334
+msgid "Abbreviated"
+msgstr "Abrégé"
+
+#: includes/class-wp-statistics-shortcode.php:325
+msgid "The format to display numbers in: i18n, english, abbreviated, none."
+msgstr "Le format d’affichage des nombres : i18n, anglais, abrégé, aucun."
+
+#: includes/class-wp-statistics-exclusion.php:41
+msgid "XML-RPC"
+msgstr "XML-RPC"
+
+#: includes/admin/class-wp-statistics-admin-network.php:65
+msgid "Post Types"
+msgstr "Types de publication"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:336
+#: includes/admin/class-wp-statistics-admin-assets.php:340
+#: includes/admin/class-wp-statistics-admin-assets.php:380
+#: src/Models/ViewsModel.php:281 src/Models/VisitorsModel.php:444
+#: src/Models/VisitorsModel.php:488 src/Models/VisitorsModel.php:532
+#: src/Models/VisitorsModel.php:586
+msgid "Last 30 days"
+msgstr "Les 30 derniers jours"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:419
+#: src/Service/Admin/LicenseManagement/Plugin/PluginDecorator.php:223
+#: views/components/addon-active-card.php:27
+msgid "Activated"
+msgstr "Activé"
+
+#: views/components/modals/introduce-premium/step-details.php:163
+msgid "Not activated"
+msgstr "Non activé"
+
+#: views/components/addon-box.php:64
+msgid "Update License"
+msgstr "Mettre à jour la licence"
+
+#: src/Service/Admin/Metabox/Metaboxes/TopReferring.php:30
+msgid "View Top Referring"
+msgstr "Voir les principaux référents"
+
+#: src/Service/Admin/Metabox/Metaboxes/TopCountries.php:31
+msgid "View Top Countries"
+msgstr "Voir les principaux pays"
+
+#: includes/admin/templates/pages/devices/overview.php:15
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:197
+#: src/Service/Admin/SiteHealthInfo.php:418
+#: views/pages/referrals/overview.php:69
+#: views/pages/visitor-insights/overview.php:79
+msgid "Top Browsers"
+msgstr "Principaux navigateurs"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:383
+#: includes/admin/class-wp-statistics-admin-assets.php:384
+msgid "This year"
+msgstr "Cette année"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:335
+#: includes/admin/class-wp-statistics-admin-assets.php:375
+#: src/Models/ViewsModel.php:265 src/Models/VisitorsModel.php:440
+#: src/Models/VisitorsModel.php:484 src/Models/VisitorsModel.php:528
+#: src/Models/VisitorsModel.php:582
+msgid "Last week"
+msgstr "La semaine dernière"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:352
+msgid "#"
+msgstr "N°"
+
+#: includes/admin/templates/settings/advanced.php:452
+msgid "Custom..."
+msgstr "Personnaliser…"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:343
+#: includes/admin/class-wp-statistics-admin-assets.php:382
+#: src/Models/ViewsModel.php:289 src/Models/VisitorsModel.php:446
+#: src/Models/VisitorsModel.php:490 src/Models/VisitorsModel.php:534
+#: src/Models/VisitorsModel.php:588
+msgid "Last 6 months"
+msgstr "Les 6 derniers mois"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:346
+#: includes/admin/class-wp-statistics-admin-assets.php:385
+msgid "Last year"
+msgstr "L’année dernière"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:345
+#: src/Models/ViewsModel.php:293 src/Models/VisitorsModel.php:447
+#: src/Models/VisitorsModel.php:491 src/Models/VisitorsModel.php:535
+#: src/Models/VisitorsModel.php:589
+msgid "This year (Jan-Today)"
+msgstr "Cette année (de janvier à aujourd’hui)"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:344
+msgid "Last 12 months"
+msgstr "Les 12 derniers mois"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:342
+#: includes/admin/class-wp-statistics-admin-assets.php:381
+#: src/Models/ViewsModel.php:285 src/Models/VisitorsModel.php:445
+#: src/Models/VisitorsModel.php:489 src/Models/VisitorsModel.php:533
+#: src/Models/VisitorsModel.php:587
+msgid "Last 90 days"
+msgstr "Les 90 derniers jours"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:341
+msgid "Last 60 days"
+msgstr "Les 60 derniers jours"
+
+#: includes/class-wp-statistics-pages.php:421
+#: includes/class-wp-statistics-pages.php:424
+msgid "Post Archive: %s"
+msgstr "Archive de publication : %s"
+
+#: includes/class-wp-statistics-privacy-exporter.php:47
+msgid "Statistics Data"
+msgstr "Données statistiques"
+
+#: includes/class-wp-statistics-privacy-erasers.php:38
+msgid "Visitor data deleted for %s."
+msgstr "Données de visites supprimées pour %s."
+
+#: src/Service/Admin/Metabox/Metaboxes/TopDeviceModel.php:16
+msgid "Top Device Model"
+msgstr "Principaux modèles d'appareils"
+
+#: src/Service/Admin/Metabox/Metaboxes/TopReferring.php:16
+#: views/components/tables/top-referring.php:13
+msgid "Top Referring"
+msgstr "Principaux référents"
+
+#: views/pages/tracker-debugger/tracker-debugger.php:254
+msgid "Roles"
+msgstr "Rôles"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:405
+#: src/Service/Admin/VisitorInsights/Views/SingleVisitorView.php:49
+#: src/Service/Admin/VisitorInsights/VisitorInsightsPage.php:83
+msgid "User"
+msgstr "Utilisateur"
+
+#: src/Service/Admin/PageInsights/PageInsightsPage.php:94
+#: src/Service/Admin/Referrals/ReferralsPage.php:105
+#: src/Service/Admin/Referrals/ReferralsPage.php:198
+#: src/Service/Admin/VisitorInsights/VisitorInsightsPage.php:105
+#: views/components/objects/header-filter-button.php:2
+msgid "Filter"
+msgstr "Filtre"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:400
+#: views/components/objects/header-filter-button.php:5
+msgid "Filters"
+msgstr "Filtres"
+
+#: includes/class-wp-statistics-exclusion.php:36
+msgid "404"
+msgstr "404"
+
+#: includes/class-wp-statistics-exclusion.php:35
+#: includes/class-wp-statistics-pages.php:404
+msgid "Feed"
+msgstr "Flux"
+
+#: includes/class-wp-statistics-exclusion.php:30
+msgid "Broken Link"
+msgstr "Lien brisé"
+
+#: includes/class-wp-statistics-exclusion.php:28
+msgid "Cron job"
+msgstr "Tâche Cron"
+
+#: includes/class-wp-statistics-exclusion.php:27
+msgid "Ajax"
+msgstr "Ajax"
+
+#: views/pages/referrals/source-categories.php:43
+msgid "Percentage"
+msgstr "Pourcentage"
+
+#: includes/admin/templates/pages/devices/categories.php:20
+#: includes/admin/templates/pages/devices/overview.php:219
+#: includes/class-wp-statistics-helper.php:938
+msgid "Category"
+msgstr "Categorie"
+
+#: includes/admin/templates/settings/advanced.php:36
+msgid "Value"
+msgstr "Valeurs"
+
+#: includes/class-wp-statistics-install.php:226
+msgid "Upgrade Database"
+msgstr "Mettre à niveau la base de données"
+
+#: includes/class-wp-statistics-install.php:300
+msgid "Please don't close the browser window until the database operation was completed."
+msgstr "Veuillez ne pas fermer la fenêtre du navigateur jusqu’à ce que l’opération de base de données soit terminée."
+
+#: includes/class-wp-statistics-install.php:302
+msgid "Item processed"
+msgstr "Élément traité"
+
+#: includes/class-wp-statistics-pages.php:410
+msgid "Search Page"
+msgstr "Page de recherche"
+
+#: src/Service/Analytics/DeviceDetection/DeviceHelper.php:22
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+#: src/Service/Analytics/DeviceDetection/DeviceHelper.php:21
+msgid "Firefox"
+msgstr "Firefox"
+
+#: src/Service/Analytics/DeviceDetection/DeviceHelper.php:18
+msgid "Chrome"
+msgstr "Chrome"
+
+#: src/Service/Analytics/DeviceDetection/DeviceHelper.php:20
+msgid "Edge"
+msgstr "Marge"
+
+#: includes/class-wp-statistics-pages.php:380
+msgid "Home Page"
+msgstr "Page d’accueil"
+
+#: includes/class-wp-statistics-pages.php:428
+msgid "Post Archive"
+msgstr "Archive des articles"
+
+#: src/Service/Analytics/DeviceDetection/DeviceHelper.php:24
+msgid "Safari"
+msgstr "Safari"
+
+#: src/Service/Analytics/DeviceDetection/DeviceHelper.php:23
+msgid "Opera"
+msgstr "Opéra"
+
+#: views/metabox/about.php:54
+msgid "Power by VeronaLabs"
+msgstr "Propulsé par VeronaLabs"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:356
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:66
+msgid "ID"
+msgstr "ID"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:59
+msgid "Year"
+msgstr "Année"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:58
+msgid "Month"
+msgstr "Mois"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:57
+msgid "Week"
+msgstr "Semaine"
+
+#: includes/admin/class-wp-statistics-admin-template.php:273
+#: includes/admin/class-wp-statistics-admin-template.php:278
+#: includes/admin/templates/pages/devices/models.php:36
+#: includes/class-wp-statistics-visitor.php:401
+#: src/Service/Admin/LicenseManagement/Plugin/PluginDecorator.php:225
+#: src/Service/Analytics/DeviceDetection/DeviceHelper.php:40
+msgid "Unknown"
+msgstr "Inconnu"
+
+#: includes/admin/templates/pages/geographic/cities.php:21
+#: views/components/session-details.php:84
+#: views/components/tables/geographic-top-cities.php:24
+msgid "City"
+msgstr "Ville"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:350
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:53
+#: views/components/tables/summary.php:18
+msgid "Time"
+msgstr "Heure"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:433
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:51
+#: includes/class-wp-statistics-shortcode.php:301
+#: src/Service/Admin/VisitorInsights/VisitorInsightsPage.php:68
+#: views/components/session-details.php:31
+#: views/components/tables/latest-referrals.php:23
+#: views/components/tables/most-active-visitors.php:24
+#: views/components/tables/online.php:25
+#: views/components/tables/referred-visitors.php:23
+#: views/components/tables/top-visitors.php:28
+#: views/components/tables/views.php:24 views/components/tables/visitors.php:30
+#: views/metabox/currently-online.php:26 views/metabox/latest-visitor.php:23
+#: views/metabox/most-active-visitors.php:24
+msgid "Referrer"
+msgstr "Référant"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:54
+msgid "Select item ..."
+msgstr "Sélectionner l’élément…"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:62
+msgid "Provider"
+msgstr "Fournisseur"
+
+#: includes/admin/templates/pages/help-center.php:124
+#: src/Service/Admin/PrivacyAudit/PrivacyAuditController.php:90
+msgid "Privacy"
+msgstr "Confidentialité"
+
+#: includes/admin/templates/settings/display.php:143
+msgid "Before Content"
+msgstr "Avant le contenu"
+
+#: includes/admin/templates/settings/display.php:144
+msgid "After Content"
+msgstr "Après le contenu"
+
+#: views/components/addon-active-card.php:49 views/components/addon-box.php:52
+msgid "Changelog"
+msgstr "Journal des modifications"
+
+#. Author URI of the plugin
+#: wp-statistics.php
+msgid "https://veronalabs.com/"
+msgstr "http://veronalabs.com/"
+
+#. Author of the plugin
+#: wp-statistics.php
+msgid "VeronaLabs"
+msgstr "VeronaLabs"
+
+#: src/Service/Admin/AuthorAnalytics/Views/AuthorsView.php:64
+msgid "Authors"
+msgstr "Auteurs"
+
+#: src/Service/Admin/LicenseManagement/Plugin/PluginDecorator.php:221
+msgid "Inactive"
+msgstr "Inactif"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:440
+#: includes/admin/templates/settings/advanced.php:535
+#: src/Service/Admin/PageInsights/PageInsightsPage.php:88
+#: src/Service/Admin/Referrals/ReferralsPage.php:192
+#: src/Service/Admin/VisitorInsights/VisitorInsightsPage.php:99
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: views/components/addon-active-card.php:52 views/components/addon-box.php:55
+msgid "Documentation"
+msgstr "Documentation"
+
+#: includes/admin/templates/settings/notifications.php:103
+#: includes/class-wp-statistics-widget.php:55
+#: includes/class-wp-statistics-widget.php:272
+msgid "Today's Visitors"
+msgstr "Visiteurs aujourd’hui"
+
+#: includes/class-wp-statistics-helper.php:938
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: includes/admin/templates/layout/date.range.php:17
+msgid "Select"
+msgstr "Sélectionner"
+
+#: includes/class-wp-statistics-search-engine.php:63
+msgctxt "Search Engine"
+msgid "Unknown"
+msgstr "Inconnu"
+
+#: src/Service/Admin/VisitorInsights/Views/TabsView.php:139
+msgid "Top Visitors"
+msgstr "Visiteurs avec le plus grand nombre de visite de la journée"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:326
+msgid "Reload"
+msgstr "Rafraichir"
+
+#: includes/admin/class-wp-statistics-admin-template.php:187
+msgid "Page %1$s of %2$s"
+msgstr "Page %1$s sur %2$s"
+
+#: includes/admin/templates/pages/category.php:9
+#: includes/admin/templates/pages/category.php:28
+#: includes/admin/templates/pages/category.php:77
+msgid "Toggle panel: %s"
+msgstr "Permuter le panneau : %s"
+
+#: includes/admin/templates/pages/category.php:37
+#: includes/admin/templates/pages/category.php:86
+msgid "Count"
+msgstr "Compteur"
+
+#: includes/admin/templates/pages/category.php:7
+#: includes/admin/templates/pages/category.php:9
+msgid "Category Statistics Chart"
+msgstr "Graphique des statistiques de la catégorie"
+
+#: includes/admin/templates/pages/category.php:26
+#: includes/admin/templates/pages/category.php:28
+msgid "Category Statistics Summary"
+msgstr "Résumé des statistiques de la catégorie"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:333
+#: includes/admin/class-wp-statistics-admin-assets.php:339
+#: includes/admin/class-wp-statistics-admin-assets.php:378
+#: src/Models/ViewsModel.php:277 src/Models/VisitorsModel.php:443
+#: src/Models/VisitorsModel.php:487 src/Models/VisitorsModel.php:531
+#: src/Models/VisitorsModel.php:585
+#: src/Service/Charts/DataProvider/SummaryChartDataProvider.php:113
+msgid "Last 7 days"
+msgstr "7 derniers jours :"
+
+#: includes/admin/templates/layout/date.range.php:63
+msgid "Last 30 Days"
+msgstr "30 derniers jours :"
+
+#: includes/admin/class-wp-statistics-admin-network.php:61
+msgid "Online"
+msgstr "En ligne"
+
+#: includes/admin/class-wp-statistics-admin-network.php:63
+#: includes/admin/templates/settings/add-ons/rest-api.php:23
+#: src/Service/Admin/Referrals/Views/TabsView.php:126
+msgid "Referrers"
+msgstr "Référents"
+
+#: includes/admin/class-wp-statistics-admin-network.php:72
+#: includes/admin/templates/settings/add-ons/customization.php:30
+#: src/Service/Admin/Optimization/OptimizationManager.php:25
+#: src/Service/Admin/Optimization/OptimizationPage.php:25
+msgid "Optimization"
+msgstr "Optimisation"
+
+#: includes/admin/templates/settings/add-ons/marketing.php:266
+msgid "Site"
+msgstr "Site"
+
+#: includes/admin/class-wp-statistics-admin-network.php:51
+msgid "Options"
+msgstr "Options"
+
+#: includes/admin/class-wp-statistics-admin-network.php:29
+#: includes/admin/class-wp-statistics-admin-network.php:59
+#: includes/admin/templates/header.php:34
+#: src/Service/Admin/Devices/Views/TabsView.php:104
+#: src/Service/Admin/Geographic/Views/TabsView.php:93
+#: src/Service/Admin/Overview/OverviewManager.php:33
+#: src/Service/Admin/Overview/OverviewPage.php:26
+#: src/Service/Admin/PageInsights/Views/TabsView.php:124
+#: src/Service/Admin/Referrals/Views/TabsView.php:112
+#: src/Service/Admin/VisitorInsights/Views/TabsView.php:110
+msgid "Overview"
+msgstr "Vue d’ensemble"
+
+#: includes/admin/pages/class-wp-statistics-admin-page-settings.php:24
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n’avez pas les permissions nécessaires pour accéder à cette page."
+
+#: includes/admin/class-wp-statistics-admin-network.php:70
+msgid "Top Visitors Today"
+msgstr "Top des visiteurs aujourd’hui"
+
+#: src/Service/Geolocation/AbstractGeoIPProvider.php:214
+#: src/Service/Geolocation/AbstractGeoIPProvider.php:218
+msgid "GeoIP update on"
+msgstr "GeoIP mis à jour le"
+
+#. Plugin URI of the plugin
+#: wp-statistics.php
+msgid "https://wp-statistics.com/"
+msgstr "https://wp-statistics.com/"
+
+#: includes/class-wp-statistics-shortcode.php:332
+msgid "English"
+msgstr "Anglais"
+
+#: includes/class-wp-statistics-shortcode.php:333
+msgid "International"
+msgstr "International"
+
+#: includes/class-wp-statistics-shortcode.php:280
+msgid "Statistic"
+msgstr "Statistique"
+
+#: includes/admin/templates/settings/add-ons/mini-chart.php:18
+#: includes/admin/templates/settings/add-ons/rest-api.php:27
+msgid "Pages"
+msgstr "Pages"
+
+#: includes/admin/templates/settings/add-ons/customization.php:264
+#: src/Service/Admin/SiteHealthInfo.php:119
+#: src/Service/Admin/SiteHealthInfo.php:124
+#: src/Service/Admin/SiteHealthInfo.php:144
+msgid "No"
+msgstr "Non"
+
+#: includes/admin/templates/optimization.php:17
+#: includes/admin/templates/settings/add-ons/customization.php:263
+#: src/Service/Admin/SiteHealthInfo.php:119
+#: src/Service/Admin/SiteHealthInfo.php:124
+#: src/Service/Admin/SiteHealthInfo.php:144
+msgid "Yes"
+msgstr "Oui"
+
+#: includes/admin/class-wp-statistics-admin-network.php:64
+#: includes/admin/templates/pages/category-analytics/category-performance.php:131
+#: includes/admin/templates/pages/category-analytics/category-single.php:113
+#: includes/admin/templates/pages/content-analytics/post-type.php:125
+#: includes/admin/templates/pages/content-analytics/single-resource.php:75
+#: includes/admin/templates/pages/content-analytics/single.php:129
+#: includes/admin/templates/settings/add-ons/rest-api.php:24
+#: src/Service/Admin/Referrals/Views/TabsView.php:133
+msgid "Search Engines"
+msgstr "Moteurs de recherche"
+
+#: includes/admin/templates/settings/advanced.php:485
+msgid "This will permanently delete data from the database each day, are you sure you want to enable this option?"
+msgstr "Ceci supprimera définitivement les données de la base de données chaque jour. Etes vous sûr de que vouloir activer cette option ?"
+
+#: includes/admin/templates/optimization/purging.php:225
+#: includes/admin/templates/settings/advanced.php:460
+msgid "Days"
+msgstr "Jours"
+
+#: includes/admin/templates/settings/notifications.php:83
+#: src/Service/Analytics/Referrals/SourceChannels.php:30
+msgid "SMS"
+msgstr "SMS"
+
+#: includes/admin/templates/settings/privacy.php:130
+#: includes/class-wp-statistics-shortcode.php:331
+#: src/Service/Admin/SiteHealthInfo.php:320
+msgid "None"
+msgstr "Aucun"
+
+#: includes/admin/templates/header.php:94
+#: includes/admin/templates/header.php:123
+#: views/components/notification/side-bar.php:12
+msgid "Notifications"
+msgstr "Notifications"
+
+#: includes/admin/class-wp-statistics-admin-network.php:26
+#: includes/admin/templates/settings/privacy.php:168
+#: includes/admin/templates/settings/privacy.php:186
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:35
+#: includes/class-wp-statistics-widget.php:15
+#: src/Service/Admin/Overview/OverviewManager.php:23
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: includes/class-wp-statistics-shortcode.php:300
+#: includes/class-wp-statistics-widget.php:181
+#: includes/class-wp-statistics-widget.php:363
+msgid "Last Post Date"
+msgstr "Date du dernier article"
+
+#. Plugin Name of the plugin
+#: wp-statistics.php includes/admin/class-wp-statistics-admin-privacy.php:27
+#: includes/admin/templates/settings/advanced.php:108
+#: includes/admin/templates/settings/advanced.php:111
+#: src/Service/Admin/Metabox/Metaboxes/AboutWPS.php:51
+#: src/Service/Admin/SiteHealthInfo.php:43
+msgid "WP Statistics"
+msgstr "WP Statistics"
+
+#: includes/admin/class-wp-statistics-admin-network.php:73
+#: includes/admin/pages/class-wp-statistics-admin-page-settings.php:36
+#: includes/admin/templates/header.php:84
+#: includes/admin/templates/header.php:117
+#: includes/admin/templates/layout/menu-settings.php:10
+#: includes/class-wp-statistics-menus.php:160 src/Service/HooksManager.php:67
+#: views/components/addon-active-card.php:43 views/components/addon-box.php:47
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/class-wp-statistics-install.php:207
+#: src/Core/Operations/Loader.php:72
+msgid "Rate this plugin"
+msgstr "Noter cette extension"
+
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:41
+#: includes/class-wp-statistics-shortcode.php:291
+msgid "Searches"
+msgstr "Recherches"
+
+#: includes/class-wp-statistics-install.php:205
+#: src/Core/Operations/Loader.php:70
+msgid "Click here to visit the plugin on WordPress.org"
+msgstr "Cliquer ici pour visiter la page de l’extension sur WordPress.org"
+
+#: includes/class-wp-statistics-install.php:205
+#: src/Core/Operations/Loader.php:70
+msgid "Visit WordPress.org page"
+msgstr "Visiter la page WordPress.org"
+
+#: includes/class-wp-statistics-install.php:207
+#: src/Core/Operations/Loader.php:72
+msgid "Click here to rate and review this plugin on WordPress.org"
+msgstr "Cliquez ici pour noter et commenter cette extension sur WordPress.org"
+
+#: includes/class-wp-statistics-shortcode.php:283
+msgid "Select the statistic you wish to display."
+msgstr "Sélectionner les statistiques que vous souhaitez afficher."
+
+#: includes/class-wp-statistics-shortcode.php:292
+msgid "Post Count"
+msgstr "Nombre d’articles"
+
+#: includes/class-wp-statistics-shortcode.php:293
+msgid "Page Count"
+msgstr "Nombre de pages"
+
+#: includes/class-wp-statistics-shortcode.php:294
+msgid "Comment Count"
+msgstr "Nombre de commentaires"
+
+#: includes/class-wp-statistics-shortcode.php:295
+msgid "Spam Count"
+msgstr "Nombre d’indésirables"
+
+#: includes/class-wp-statistics-shortcode.php:296
+msgid "User Count"
+msgstr "Nombre d’utilisateurs"
+
+#: includes/class-wp-statistics-shortcode.php:297
+#: includes/class-wp-statistics-widget.php:160
+#: includes/class-wp-statistics-widget.php:351
+msgid "Post Average"
+msgstr "Moyenne des publications"
+
+#: includes/class-wp-statistics-shortcode.php:298
+#: includes/class-wp-statistics-widget.php:167
+#: includes/class-wp-statistics-widget.php:355
+msgid "Comment Average"
+msgstr "Moyenne de commentaire"
+
+#: includes/class-wp-statistics-shortcode.php:299
+#: includes/class-wp-statistics-widget.php:174
+#: includes/class-wp-statistics-widget.php:359
+msgid "User Average"
+msgstr "Moyenne de l’utilisateur"
+
+#: includes/class-wp-statistics-shortcode.php:305
+msgid "Time Frame"
+msgstr "Plage de temps"
+
+#: includes/class-wp-statistics-shortcode.php:315
+msgid "Search Provider"
+msgstr "Rechercher un prestataire"
+
+#: includes/class-wp-statistics-shortcode.php:318
+msgid "The search provider to get statistics on."
+msgstr "Le fournisseur de recherche pour obtenir des statistiques."
+
+#: includes/class-wp-statistics-shortcode.php:322
+msgid "Number Format"
+msgstr "Format du nombre"
+
+#: includes/class-wp-statistics-shortcode.php:338
+msgid "Post/Page ID"
+msgstr "ID de la publication/page"
+
+#: includes/class-wp-statistics-shortcode.php:341
+msgid "The post/page ID to get page statistics on."
+msgstr "L’ID de post/page pour obtenir les statistiques de la page."
+
+#: includes/admin/templates/settings/notifications.php:107
+#: includes/class-wp-statistics-widget.php:69
+#: includes/class-wp-statistics-widget.php:280
+msgid "Yesterday's Visitors"
+msgstr "Visiteurs d’hier"
+
+#: includes/admin/templates/settings/notifications.php:111
+#: includes/class-wp-statistics-widget.php:104
+#: includes/class-wp-statistics-widget.php:300
+msgid "Total Visitors"
+msgstr "Nombre total de visiteurs"
+
+#: includes/class-wp-statistics-widget.php:111
+#: includes/class-wp-statistics-widget.php:304
+msgid "Total Page Views"
+msgstr "Total des vues de la page"
+
+#: includes/class-wp-statistics-widget.php:125
+#: includes/class-wp-statistics-widget.php:331
+msgid "Total Posts"
+msgstr "Total des publications"
+
+#: includes/class-wp-statistics-widget.php:132
+#: includes/class-wp-statistics-widget.php:335
+msgid "Total Pages"
+msgstr "Nombre total de pages"
+
+#: includes/class-wp-statistics-widget.php:139
+#: includes/class-wp-statistics-widget.php:339
+msgid "Total Comments"
+msgstr "Total avis"
+
+#: includes/class-wp-statistics-widget.php:146
+#: includes/class-wp-statistics-widget.php:343
+msgid "Total Spams"
+msgstr "Nombre total de spams"
+
+#: includes/class-wp-statistics-widget.php:153
+#: includes/class-wp-statistics-widget.php:347
+msgid "Total Users"
+msgstr "Nombre total d’utilisateurs"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:429
+#: includes/class-wp-statistics-widget.php:255
+msgid "Name"
+msgstr "Namn"
+
+#: includes/admin/templates/settings/advanced.php:297
+msgid "Next update will be"
+msgstr "La prochaine mise à jour sera dans"
+
+#: includes/admin/templates/settings/advanced.php:422
+msgid "Purge Old Data Daily"
+msgstr "Purger les anciennes données quotidiennes"
+
+#: includes/admin/templates/layout/menu-settings.php:16
+#: includes/admin/templates/settings/general.php:10
+msgid "General"
+msgstr "Général"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:420
+#: views/components/addon-active-card.php:34 views/components/addon-box.php:37
+msgid "Active"
+msgstr "Actif"
+
+#: includes/class-wp-statistics-shortcode.php:308
+msgid "The time frame to get the statistic for, strtotime() (http://php.net/manual/en/datetime.formats.php) will be used to calculate it. Use \"total\" to get all recorded dates."
+msgstr "Le délai pour obtenir la statistique pour, strtotime() (http://php.net/manual/en/datetime.formats.php) sera utilisé pour le calculer. Utilisez « total » pour obtenir toutes les dates enregistrées."
+
+#: includes/admin/class-wp-statistics-admin-assets.php:430
+#: includes/admin/templates/settings/notifications.php:81
+#: src/Service/Analytics/Referrals/SourceChannels.php:20
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/class-wp-statistics-widget.php:260
+msgid "Items"
+msgstr "Éléments"
+
+#: includes/admin/templates/optimization/purging.php:214
+msgid "Data"
+msgstr "Données"
+
+#: includes/admin/templates/pages/devices/browsers.php:21
+#: includes/admin/templates/pages/devices/overview.php:25
+#: views/components/session-details.php:53
+msgid "Browser"
+msgstr "Navigateur"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:329
+#: includes/admin/class-wp-statistics-admin-assets.php:355
+#: includes/admin/class-wp-statistics-admin-network.php:62
+#: includes/admin/templates/emails/layout.php:151
+#: includes/admin/templates/pages/author-analytics/authors-performance.php:31
+#: includes/admin/templates/pages/category-analytics/category-performance.php:22
+#: includes/admin/templates/pages/category-analytics/category-single.php:22
+#: includes/admin/templates/pages/content-analytics/post-type.php:26
+#: includes/admin/templates/pages/content-analytics/single-resource.php:16
+#: includes/admin/templates/pages/content-analytics/single.php:21
+#: includes/admin/templates/pages/country.php:12
+#: includes/admin/templates/pages/devices/browsers.php:24
+#: includes/admin/templates/pages/devices/categories.php:23
+#: includes/admin/templates/pages/devices/models.php:23
+#: includes/admin/templates/pages/devices/overview.php:28
+#: includes/admin/templates/pages/devices/overview.php:95
+#: includes/admin/templates/pages/devices/overview.php:159
+#: includes/admin/templates/pages/devices/overview.php:222
+#: includes/admin/templates/pages/devices/platforms.php:24
+#: includes/admin/templates/pages/geographic/cities.php:30
+#: includes/admin/templates/pages/geographic/countries.php:28
+#: includes/admin/templates/pages/geographic/europe.php:27
+#: includes/admin/templates/pages/geographic/regions.php:23
+#: includes/admin/templates/pages/geographic/us.php:23
+#: includes/admin/templates/settings/add-ons/mini-chart.php:83
+#: includes/admin/templates/settings/add-ons/rest-api.php:26
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:38
+#: includes/class-wp-statistics-shortcode.php:288
+#: src/Service/Admin/MiniChart/MiniChartHelper.php:112
+#: src/Service/Admin/VisitorInsights/Views/TabsView.php:117
+#: src/Service/Charts/DataProvider/PerformanceChartDataProvider.php:65
+#: src/Service/Charts/DataProvider/PerformanceChartDataProvider.php:107
+#: src/Service/Charts/DataProvider/TrafficChartDataProvider.php:50
+#: src/Service/Charts/DataProvider/TrafficChartDataProvider.php:64
+#: views/components/tables/geographic-top-cities.php:34
+#: views/components/tables/geographic-top-countries.php:31
+#: views/components/tables/geographic-top-regions.php:27
+#: views/components/tables/source-categories.php:21
+#: views/components/tables/summary.php:21
+#: views/components/tables/top-countries.php:30
+#: views/components/tables/top-report.php:28
+#: views/components/traffic-summary.php:33 views/metabox/top-countries.php:17
+#: views/metabox/traffic-overview.php:43 views/metabox/traffic-overview.php:90
+#: views/metabox/traffic-summary.php:30
+#: views/pages/visitor-insights/overview.php:23
+msgid "Visitors"
+msgstr "Visiteurs"
+
+#: includes/admin/templates/optimization/resources.php:12
+msgid "Resources/Information"
+msgstr "Ressources/Informations"
+
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:106
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:118
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:130
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:142
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:154
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:166
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:178
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:190
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:202
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:306
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:329
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:351
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:363
+#: includes/admin/templates/settings/add-ons/customization.php:110
+#: includes/admin/templates/settings/add-ons/data-plus.php:59
+#: includes/admin/templates/settings/add-ons/data-plus.php:72
+#: includes/admin/templates/settings/add-ons/data-plus.php:97
+#: includes/admin/templates/settings/add-ons/marketing.php:115
+#: includes/admin/templates/settings/add-ons/marketing.php:320
+#: includes/admin/templates/settings/add-ons/rest-api.php:55
+#: includes/admin/templates/settings/add-ons/widgets.php:78
+#: includes/admin/templates/settings/advanced.php:294
+#: includes/admin/templates/settings/advanced.php:318
+#: includes/admin/templates/settings/advanced.php:407
+#: includes/admin/templates/settings/advanced.php:513
+#: includes/admin/templates/settings/advanced.php:560
+#: includes/admin/templates/settings/display.php:26
+#: includes/admin/templates/settings/display.php:37
+#: includes/admin/templates/settings/display.php:48
+#: includes/admin/templates/settings/display.php:60
+#: includes/admin/templates/settings/display.php:72
+#: includes/admin/templates/settings/display.php:84
+#: includes/admin/templates/settings/display.php:96
+#: includes/admin/templates/settings/display.php:108
+#: includes/admin/templates/settings/display.php:130
+#: includes/admin/templates/settings/exclusions.php:212
+#: includes/admin/templates/settings/general.php:33
+#: includes/admin/templates/settings/general.php:53
+#: includes/admin/templates/settings/general.php:115
+#: includes/admin/templates/settings/notifications.php:150
+#: includes/admin/templates/settings/privacy.php:69
+#: includes/admin/templates/settings/privacy.php:87
+#: includes/admin/templates/settings/privacy.php:108
+#: includes/admin/templates/settings/privacy.php:206
+#: includes/admin/templates/settings/privacy.php:219
+msgid "Enable"
+msgstr "Activer"
+
+#: includes/admin/templates/settings/exclusions.php:33
+#: includes/admin/templates/settings/exclusions.php:146
+#: includes/admin/templates/settings/exclusions.php:153
+#: includes/admin/templates/settings/exclusions.php:160
+msgid "Exclude"
+msgstr "Exclure"
+
+#: includes/admin/templates/optimization/export.php:14
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:375
+#: views/components/objects/export-button.php:12
+#: views/components/objects/export-button.php:84
+msgid "Export"
+msgstr "Exporter"
+
+#: includes/admin/templates/optimization/export.php:24
+#: includes/admin/templates/optimization/export.php:43
+#: includes/admin/templates/settings/display.php:142
+#: includes/admin/templates/settings/notifications.php:80
+msgid "Please select"
+msgstr "Sélectionner"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:476
+msgid "Are you sure?"
+msgstr "Confirmez-vous ?"
+
+#: includes/admin/templates/optimization/resources.php:44
+msgid "Row"
+msgid_plural "Rows"
+msgstr[0] "Rangée"
+msgstr[1] "Rangées"
+
+#: src/Service/Admin/SiteHealthInfo.php:298
+#: src/Service/Admin/SiteHealthInfo.php:303
+#: src/Service/Admin/SiteHealthInfo.php:308
+#: src/Service/Admin/SiteHealthInfo.php:313
+msgid "Installed"
+msgstr "Installée"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:368
+msgid "User Agent"
+msgstr "Agent utilisateur"
+
+#: includes/admin/templates/settings/access-level.php:120
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:418
+#: includes/admin/templates/settings/add-ons/customization.php:306
+#: includes/admin/templates/settings/add-ons/data-plus.php:107
+#: includes/admin/templates/settings/add-ons/marketing.php:329
+#: includes/admin/templates/settings/add-ons/mini-chart.php:155
+#: includes/admin/templates/settings/add-ons/realtime-stats.php:54
+#: includes/admin/templates/settings/add-ons/rest-api.php:80
+#: includes/admin/templates/settings/add-ons/widgets.php:89
+#: includes/admin/templates/settings/advanced.php:571
+#: includes/admin/templates/settings/display.php:154
+#: includes/admin/templates/settings/exclusions.php:220
+#: includes/admin/templates/settings/general.php:134
+#: includes/admin/templates/settings/notifications.php:168
+#: includes/admin/templates/settings/privacy.php:227
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: includes/admin/templates/settings/exclusions.php:192
+msgid "Reset to Default"
+msgstr "Initialiser avec les valeurs par défaut"
+
+#: src/Service/Admin/PageInsights/Views/TabsView.php:155
+msgid "404 Pages"
+msgstr "Pages 404"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:415
+msgid "Close"
+msgstr "Fermer"
+
+#: src/Service/Analytics/DeviceDetection/DeviceHelper.php:19
+msgid "DuckDuckGo"
+msgstr "DuckDuckGo"
+
+#: includes/class-wp-statistics-exclusion.php:34
+msgid "Admin Page"
+msgstr "Page d'Admin"
+
+#: includes/class-wp-statistics-exclusion.php:29
+msgid "Robot"
+msgstr "Robot"
+
+#: includes/admin/templates/settings/add-ons/rest-api.php:25
+msgid "Summary"
+msgstr "Résumé"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:351
+#: includes/admin/class-wp-statistics-admin-network.php:68
+#: includes/admin/templates/pages/category-analytics/category-performance.php:70
+#: includes/admin/templates/pages/category-analytics/category-single.php:69
+#: includes/admin/templates/pages/content-analytics/post-type.php:81
+#: includes/admin/templates/pages/content-analytics/single-resource.php:38
+#: includes/admin/templates/pages/content-analytics/single.php:90
+#: includes/admin/templates/settings/add-ons/rest-api.php:21
+#: src/Service/Admin/Devices/Views/SingleBrowserView.php:42
+#: src/Service/Admin/Devices/Views/TabsView.php:111
+#: src/Service/Admin/VisitorInsights/VisitorInsightsPage.php:56
+msgid "Browsers"
+msgstr "Navigateurs"
+
+#: includes/admin/class-wp-statistics-admin-template.php:223
+msgid "10 Days"
+msgstr "10 jours"
+
+#: includes/admin/class-wp-statistics-admin-template.php:224
+msgid "20 Days"
+msgstr "20 jours"
+
+#: includes/admin/class-wp-statistics-admin-template.php:225
+msgid "30 Days"
+msgstr "30 jours"
+
+#: includes/admin/class-wp-statistics-admin-template.php:226
+msgid "2 Months"
+msgstr "2 mois"
+
+#: includes/admin/class-wp-statistics-admin-template.php:227
+msgid "3 Months"
+msgstr "3 mois"
+
+#: includes/admin/class-wp-statistics-admin-template.php:228
+msgid "6 Months"
+msgstr "6 mois"
+
+#: includes/admin/class-wp-statistics-admin-template.php:229
+msgid "9 Months"
+msgstr "9 mois"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:452
+msgid "days"
+msgstr "jours"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:357
+#: includes/admin/templates/layout/filters/page-filter.php:8
+#: views/components/tables/recent-events.php:24
+#: views/components/tables/recent-views.php:21
+#: views/components/tables/top-report.php:22
+#: views/components/tables/views.php:30 views/metabox/most-visited-pages.php:24
+#: views/pages/page-insights/overview.php:26
+#: views/pages/page-insights/overview.php:84
+msgid "Page"
+msgstr "Page"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:347
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:60
+#: src/Models/ViewsModel.php:300 src/Models/VisitorsModel.php:467
+#: src/Models/VisitorsModel.php:511 src/Models/VisitorsModel.php:560
+#: src/Models/VisitorsModel.php:609
+#: src/Service/Charts/DataProvider/ExclusionsChartDataProvider.php:92
+#: src/Service/Charts/DataProvider/SearchEngineChartDataProvider.php:98
+#: src/Service/Charts/DataProvider/SearchEngineChartDataProvider.php:125
+#: src/Service/Charts/DataProvider/SocialMediaChartDataProvider.php:98
+#: src/Service/Charts/DataProvider/SocialMediaChartDataProvider.php:125
+#: src/Service/Charts/DataProvider/SourceCategoryChartDataProvider.php:92
+#: src/Service/Charts/DataProvider/SourceCategoryChartDataProvider.php:119
+#: src/Service/Charts/DataProvider/SummaryChartDataProvider.php:128
+msgid "Total"
+msgstr "Total"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:354
+#: includes/admin/templates/pages/country.php:11
+#: includes/admin/templates/pages/geographic/cities.php:27
+#: includes/admin/templates/pages/geographic/countries.php:25
+#: includes/admin/templates/pages/geographic/europe.php:24
+#: src/Service/Admin/VisitorInsights/VisitorInsightsPage.php:60
+#: views/components/session-details.php:74
+#: views/components/tables/geographic-top-cities.php:30
+#: views/components/tables/geographic-top-countries.php:27
+#: views/components/tables/top-countries.php:26
+#: views/metabox/top-countries.php:16
+msgid "Country"
+msgstr "Pays"
+
+#: includes/admin/templates/pages/devices/single-browser.php:22
+msgid "Visitor Count"
+msgstr "Nombre de visiteurs"
+
+#: views/components/privacy-audit/cookie-banner.php:10
+msgid "More Information"
+msgstr "Plus d'informations"
+
+#: includes/admin/templates/layout/author-analytics/publishing-overview.php:28
+msgid "More"
+msgstr "Plus"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:332
+#: includes/admin/class-wp-statistics-admin-assets.php:373
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:56
+#: src/Models/ViewsModel.php:257 src/Models/VisitorsModel.php:438
+#: src/Models/VisitorsModel.php:482 src/Models/VisitorsModel.php:526
+#: src/Models/VisitorsModel.php:580
+#: src/Service/Charts/DataProvider/SummaryChartDataProvider.php:107
+msgid "Yesterday"
+msgstr "Hier"
+
+#: src/Service/Admin/VisitorInsights/Views/SingleVisitorView.php:53
+msgid "IP"
+msgstr "IP"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:398
+#: src/Service/Admin/Devices/Views/SingleBrowserView.php:44
+#: src/Service/Admin/SiteHealthInfo.php:83 views/metabox/about.php:9
+msgid "Version"
+msgstr "Version"
+
+#: src/Service/Admin/Geographic/Views/TabsView.php:100
+msgid "Countries"
+msgstr "Pays"
+
+#: includes/admin/class-wp-statistics-admin-network.php:71
+#: includes/admin/templates/pages/exclusions.php:36
+#: includes/admin/templates/settings/add-ons/customization.php:31
+#: src/Service/Admin/Exclusions/ExclusionsManager.php:25
+msgid "Exclusions"
+msgstr "Exclusions"
+
+#: includes/admin/templates/settings/add-ons/rest-api.php:22
+#: views/components/tables/views.php:58
+msgid "Hits"
+msgstr "Vues"
+
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:137
+#: src/Service/Admin/SiteHealthInfo.php:393
+msgid "Search Engine Referrals"
+msgstr "Redirections des moteurs de recherche"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:91
+#: includes/admin/class-wp-statistics-admin-assets.php:331
+#: includes/admin/class-wp-statistics-admin-assets.php:372
+#: includes/admin/TinyMCE/class-wp-statistics-tinymce.php:55
+#: src/Models/ViewsModel.php:253 src/Models/VisitorsModel.php:437
+#: src/Models/VisitorsModel.php:481 src/Models/VisitorsModel.php:525
+#: src/Models/VisitorsModel.php:579
+#: src/Service/Charts/DataProvider/SummaryChartDataProvider.php:101
+msgid "Today"
+msgstr "Aujourd’hui"
+
+#: includes/admin/class-wp-statistics-admin-ajax.php:227
+#: includes/admin/class-wp-statistics-admin-assets.php:401
+#: includes/admin/class-wp-statistics-admin-template.php:236
+#: includes/class-wp-statistics-widget.php:326
+#: src/Service/Admin/PageInsights/PageInsightsPage.php:29
+#: src/Service/Admin/PageInsights/PageInsightsPage.php:32
+#: src/Service/Admin/Referrals/ReferralsPage.php:60
+#: src/Service/Admin/Referrals/ReferralsPage.php:124
+#: src/Service/Admin/VisitorInsights/VisitorInsightsPage.php:37
+#: src/Service/Admin/VisitorInsights/VisitorInsightsPage.php:40
+#: views/components/objects/header-filter-select.php:13
+msgid "All"
+msgstr "Tout"
+
+#: includes/admin/class-wp-statistics-admin-template.php:230
+msgid "1 Year"
+msgstr "1 année"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:475
+msgid "to"
+msgstr "à"
+
+#: includes/class-wp-statistics-purge.php:172
+msgid "Please select a value over 30 days."
+msgstr "Veuillez sélectionner une valeur sur 30 jours."
+
+#: includes/admin/templates/pages/devices/overview.php:41
+#: includes/admin/templates/pages/devices/overview.php:108
+#: includes/admin/templates/pages/devices/overview.php:171
+#: includes/admin/templates/pages/devices/overview.php:234
+#: src/Service/Charts/DataProvider/BrowserChartDataProvider.php:86
+#: src/Service/Charts/DataProvider/DeviceChartDataProvider.php:88
+#: src/Service/Charts/DataProvider/ModelChartDataProvider.php:84
+#: src/Service/Charts/DataProvider/OsChartDataProvider.php:87
+msgid "Other"
+msgstr "Autre"
+
+#: src/Service/Admin/VisitorInsights/VisitorInsightsPage.php:63
+msgid "Platform"
+msgstr "Plateforme"
+
+#: includes/class-wp-statistics-exclusion.php:31
+msgid "IP Match"
+msgstr "Concordance de l’IP"
+
+#: includes/class-wp-statistics-exclusion.php:32
+msgid "Self Referral"
+msgstr "Accès sans recommandation"
+
+#: includes/class-wp-statistics-exclusion.php:33
+#: includes/class-wp-statistics-pages.php:407
+msgid "Login Page"
+msgstr "Stranica za prijavu"
+
+#: includes/admin/templates/layout/filters/user-role-filter.php:8
+#: includes/class-wp-statistics-exclusion.php:38
+#: src/Service/Admin/VisitorInsights/VisitorInsightsPage.php:111
+msgid "User Role"
+msgstr "Rôle de l’utilisateur"
+
+#: includes/class-wp-statistics-exclusion.php:40
+msgid "Robot threshold"
+msgstr "Seuil des robots"
+
+#: includes/class-wp-statistics-exclusion.php:37
+msgid "Excluded URL"
+msgstr "URL exclus"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:349
+#: views/components/tables/recent-events.php:9
+#: views/components/tables/recent-views.php:18
+msgid "Date"
+msgstr "Daté"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:435
+msgid "Online For"
+msgstr "En ligne pour"
+
+#: includes/admin/class-wp-statistics-admin-assets.php:348
+msgid "Daily Total"
+msgstr "Total quotidien :"
+
+#: views/components/tables/referrers.php:25
+#: views/components/tables/top-referring.php:29
+#: views/pages/referrals/source-categories.php:40
+msgid "Number of Referrals"
+msgstr "Nombre de référents"
+
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:185
+#: src/Service/Admin/Metabox/Metaboxes/TopCountries.php:17
+#: src/Service/Admin/SiteHealthInfo.php:413
+#: views/components/tables/geographic-top-countries.php:17
+#: views/components/tables/top-countries.php:12
+#: views/pages/referrals/overview.php:64
+#: views/pages/visitor-insights/overview.php:56
+msgid "Top Countries"
+msgstr "Principaux pays"
+
+#: includes/admin/templates/header.php:50
+#: includes/admin/templates/header.php:112
+#: includes/admin/templates/settings/add-ons/advanced-reporting.php:173
+#: src/Service/Admin/Metabox/Metaboxes/MostVisitedPages.php:16
+#: src/Service/Admin/PageInsights/Views/TabsView.php:131
+#: src/Service/Admin/SiteHealthInfo.php:408
+#: views/pages/page-insights/overview.php:16
+msgid "Top Pages"
+msgstr "Principales pages"

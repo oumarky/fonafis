@@ -1,0 +1,1501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-forecast 1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-05 08:53+0100\n"
+"PO-Revision-Date: 2014-10-17 12:49+0100\n"
+"Last-Translator: Amidža Idriz <bijeljina@bahnhof.se>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: class-wpf-widget.php:97 class-wpfuvwidget.php:106 wp-forecast-admin.php:278
+msgid "Title:"
+msgstr "Naslov:"
+
+#: class-wpf-widget.php:101 class-wpfuvwidget.php:110 wp-forecast-admin.php:436
+msgid "Available widgets"
+msgstr "Raspoloživi dodaci"
+
+#: class-wpfuvwidget.php:131
+msgid "Show UV graph:"
+msgstr ""
+
+#: class-wpfuvwidget.php:136
+msgid "Show safe exposure time:"
+msgstr ""
+
+#: class-wpfuvwidget.php:247 wp-forecast-show.php:163
+msgid "time"
+msgstr "Vrijeme"
+
+#: class-wpfuvwidget.php:292
+#, fuzzy
+msgid "Current UV-Index"
+msgstr "UV indeks"
+
+#: class-wpfuvwidget.php:296
+#, fuzzy
+msgid "Max. UV-Index"
+msgstr "Maksimalni UV indeks"
+
+#: class-wpfuvwidget.php:300 wp-forecast-show.php:314
+#, fuzzy
+msgid "Ozone"
+msgstr "UV indeks"
+
+#: class-wpfuvwidget.php:310 class-wpfuvwidget.php:312
+msgid "Safe Exposure Time for Skin Type"
+msgstr ""
+
+#: func-openmeteo.php:178
+msgid "Rain"
+msgstr "Kiša"
+
+#: func-openmeteo.php:182 func-openweathermap.php:956
+msgid "Snow"
+msgstr "Snijeg"
+
+#: func-openmeteo.php:465 func-openmeteo.php:550 func-openweathermap.php:1026
+#, fuzzy
+msgid "Clear sky"
+msgstr "Vedro"
+
+#: func-openmeteo.php:468
+#, fuzzy
+msgid "Mainly clear"
+msgstr "Uglavnom vedro"
+
+#: func-openmeteo.php:471
+#, fuzzy
+msgid "Partly cloudy"
+msgstr "Djelimično oblačno"
+
+#: func-openmeteo.php:474
+#, fuzzy
+msgid "Overcast"
+msgstr "Prognoza"
+
+#: func-openmeteo.php:477 func-openweathermap.php:1003
+msgid "Fog"
+msgstr "Magla"
+
+#: func-openmeteo.php:480
+msgid "Rime fog"
+msgstr ""
+
+#: func-openmeteo.php:483 func-openweathermap.php:886
+#, fuzzy
+msgid "Light drizzle"
+msgstr "Hladna sitna kiša"
+
+#: func-openmeteo.php:486
+#, fuzzy
+msgid "Moderate drizzle"
+msgstr "Hladna sitna kiša"
+
+#: func-openmeteo.php:489
+#, fuzzy
+msgid "Dense drizzle"
+msgstr "Hladna sitna kiša"
+
+#: func-openmeteo.php:492
+#, fuzzy
+msgid "Light freezing drizzle"
+msgstr "Hladna sitna kiša"
+
+#: func-openmeteo.php:495
+#, fuzzy
+msgid "Dense freezing drizzle"
+msgstr "Moguća sitna hladna kiša"
+
+#: func-openmeteo.php:498
+#, fuzzy
+msgid "Slight rain"
+msgstr "Lagan snijeg"
+
+#: func-openmeteo.php:501 func-openweathermap.php:921
+#, fuzzy
+msgid "Moderate rain"
+msgstr "Mogući pljuskovi"
+
+#: func-openmeteo.php:504 func-openweathermap.php:924
+#, fuzzy
+msgid "Heavy rain"
+msgstr "Jaka kiša"
+
+#: func-openmeteo.php:507
+#, fuzzy
+msgid "Light freezing rain"
+msgstr "Ledena kiša"
+
+#: func-openmeteo.php:510
+#, fuzzy
+msgid "Heavy freezing rain"
+msgstr "Moguća ledena kiša"
+
+#: func-openmeteo.php:513
+#, fuzzy
+msgid "Slight snow fall"
+msgstr "Lagan snijeg"
+
+#: func-openmeteo.php:516
+#, fuzzy
+msgid "Moderate snow fall"
+msgstr "Jak snijeg"
+
+#: func-openmeteo.php:519
+#, fuzzy
+msgid "Heavy snow fall"
+msgstr "Jak snijeg"
+
+#: func-openmeteo.php:522
+#, fuzzy
+msgid "Snow grains"
+msgstr "Jak snijeg"
+
+#: func-openmeteo.php:525
+#, fuzzy
+msgid "Slight rain showers"
+msgstr "Pljuskovi"
+
+#: func-openmeteo.php:528
+#, fuzzy
+msgid "Moderate rain showers"
+msgstr "Mogući pljuskovi"
+
+#: func-openmeteo.php:531
+#, fuzzy
+msgid "Violent rain showers"
+msgstr "Pljuskovi"
+
+#: func-openmeteo.php:534
+#, fuzzy
+msgid "Slight snow showers"
+msgstr "Jak snijeg"
+
+#: func-openmeteo.php:537
+#, fuzzy
+msgid "Heavy snow showers"
+msgstr "Jak snijeg"
+
+#: func-openmeteo.php:540 func-openweathermap.php:863
+#, fuzzy
+msgid "Thunderstorm"
+msgstr "Grmljavina"
+
+#: func-openmeteo.php:543
+msgid "Thunderstorm with light hail"
+msgstr ""
+
+#: func-openmeteo.php:546
+msgid "Thunderstorm with heavy hail"
+msgstr ""
+
+#: func-openweathermap.php:846
+msgid "clear sky"
+msgstr ""
+
+#: func-openweathermap.php:851
+msgid "Thunderstorm with light rain"
+msgstr ""
+
+#: func-openweathermap.php:854
+#, fuzzy
+msgid "Thunderstorm with rain"
+msgstr "Grmljavina"
+
+#: func-openweathermap.php:857
+msgid "Thunderstorm with heavy rain"
+msgstr ""
+
+#: func-openweathermap.php:860
+#, fuzzy
+msgid "Light thunderstorm"
+msgstr "Grmljavina"
+
+#: func-openweathermap.php:866
+#, fuzzy
+msgid "Heavy thunderstorm"
+msgstr "Grmljavina"
+
+#: func-openweathermap.php:869
+#, fuzzy
+msgid "Ragged thunderstorm"
+msgstr "Grmljavina"
+
+#: func-openweathermap.php:872
+msgid "Thunderstorm with light drizzle"
+msgstr ""
+
+#: func-openweathermap.php:875
+#, fuzzy
+msgid "Thunderstorm with drizzle"
+msgstr "Grmljavina"
+
+#: func-openweathermap.php:878
+msgid "Thunderstorm with heavy drizzle"
+msgstr ""
+
+#: func-openweathermap.php:889
+msgid "Drizzle"
+msgstr "Sitna kiša"
+
+#: func-openweathermap.php:892
+#, fuzzy
+msgid "Heavy drizzle"
+msgstr "Hladna sitna kiša"
+
+#: func-openweathermap.php:895
+#, fuzzy
+msgid "Light drizzle rain"
+msgstr "Hladna sitna kiša"
+
+#: func-openweathermap.php:898
+#, fuzzy
+msgid "Drizzle rain"
+msgstr "Sitna kiša"
+
+#: func-openweathermap.php:901
+#, fuzzy
+msgid "Heavy drizzle rain"
+msgstr "Moguća ledena kiša"
+
+#: func-openweathermap.php:904
+msgid "Shower rain and drizzle"
+msgstr ""
+
+#: func-openweathermap.php:907
+#, fuzzy
+msgid "Heavy shower rain and drizzle"
+msgstr "Jaka kiša"
+
+#: func-openweathermap.php:910
+#, fuzzy
+msgid "Shower drizzle"
+msgstr "Hladna sitna kiša"
+
+#: func-openweathermap.php:918
+#, fuzzy
+msgid "Light rain"
+msgstr "Lagan snijeg"
+
+#: func-openweathermap.php:927
+#, fuzzy
+msgid "Very heavy rain"
+msgstr "Jaka kiša"
+
+#: func-openweathermap.php:930
+msgid "Extreme rain"
+msgstr ""
+
+#: func-openweathermap.php:933
+#, fuzzy
+msgid "Freezing rain"
+msgstr "Ledena kiša"
+
+#: func-openweathermap.php:936
+#, fuzzy
+msgid "Light shower rain"
+msgstr "Lagan snijeg"
+
+#: func-openweathermap.php:939
+#, fuzzy
+msgid "Shower rain"
+msgstr "Jaka kiša"
+
+#: func-openweathermap.php:942
+#, fuzzy
+msgid "Heavy shower rain"
+msgstr "Jaka kiša"
+
+#: func-openweathermap.php:945
+msgid "Ragged shower rain"
+msgstr ""
+
+#: func-openweathermap.php:953
+#, fuzzy
+msgid "Light snow"
+msgstr "Lagan snijeg"
+
+#: func-openweathermap.php:959
+#, fuzzy
+msgid "Heavy snow"
+msgstr "Jak snijeg"
+
+#: func-openweathermap.php:962
+msgid "Sleet"
+msgstr "Susnježica"
+
+#: func-openweathermap.php:965
+#, fuzzy
+msgid "Light shower sleet"
+msgstr "Lagan snijeg"
+
+#: func-openweathermap.php:968
+msgid "Shower sleet"
+msgstr ""
+
+#: func-openweathermap.php:971
+#, fuzzy
+msgid "Light rain and snow"
+msgstr "Pljuskovi"
+
+#: func-openweathermap.php:974
+msgid "Rain and snow"
+msgstr ""
+
+#: func-openweathermap.php:977
+#, fuzzy
+msgid "Light shower snow"
+msgstr "Jak snijeg"
+
+#: func-openweathermap.php:980
+#, fuzzy
+msgid "Shower snow"
+msgstr "Pljuskovi"
+
+#: func-openweathermap.php:983
+#, fuzzy
+msgid "Heavy shower snow"
+msgstr "Jak snijeg"
+
+#: func-openweathermap.php:991
+msgid "Mist"
+msgstr ""
+
+#: func-openweathermap.php:994
+msgid "Smoke"
+msgstr ""
+
+#: func-openweathermap.php:997
+msgid "Haze"
+msgstr ""
+
+#: func-openweathermap.php:1000 func-openweathermap.php:1009
+msgid "Dust"
+msgstr ""
+
+#: func-openweathermap.php:1006
+msgid "Sand"
+msgstr ""
+
+#: func-openweathermap.php:1012
+msgid "Ash"
+msgstr ""
+
+#: func-openweathermap.php:1015
+msgid "Squalls"
+msgstr ""
+
+#: func-openweathermap.php:1018
+msgid "Tornado"
+msgstr ""
+
+#: func-openweathermap.php:1029
+msgid "Few clouds"
+msgstr ""
+
+#: func-openweathermap.php:1032
+#, fuzzy
+msgid "Scattered clouds"
+msgstr "Mjestimični pljuskovi"
+
+#: func-openweathermap.php:1035
+#, fuzzy
+msgid "Broken clouds"
+msgstr "Povećana naoblaka"
+
+#: func-openweathermap.php:1038
+#, fuzzy
+msgid "Overcast clouds"
+msgstr "Prognoza"
+
+#: funclib.php:630
+msgid ""
+"As of September 10, 2023 it seems Accuweather has discontinued the free api-"
+"service. \n"
+"\t\t\tPlease switch to either Openweathermap or Open-Meteo instead. \n"
+"\t\t\tFor use with OpenWeatherMap.org you will need a personal API-Key and "
+"have to register at their site.\n"
+"\t\t\tAll your Accuweather Widgets have been set to Open-Meteo to avoid "
+"errors on your website. Please check if all settings are correct."
+msgstr ""
+
+#: shortcodes.php:54
+msgid "wp-forecast shortcode: This browser does not support iframes."
+msgstr "Upozorenje: Ovaj internet preglednik ne podržava iframes."
+
+#: wp-forecast-admin.php:95
+#, fuzzy
+msgid "Searchresults"
+msgstr "Rezultati pretrage"
+
+#: wp-forecast-admin.php:98
+msgid "Please enter a non empty searchstring"
+msgstr "Upišite termin za pretragu"
+
+#: wp-forecast-admin.php:100
+#, fuzzy
+msgid "Please select a location"
+msgstr "Odaberite grad i postavite lokaciju."
+
+#: wp-forecast-admin.php:108
+msgid "Open-Meteo Hits"
+msgstr ""
+
+#: wp-forecast-admin.php:209 wp-forecast-admin.php:218
+msgid "You have to set the API-Key to test OpenWeatherMap."
+msgstr ""
+
+#: wp-forecast-admin.php:282
+msgid "widget_hint"
+msgstr "dodatak_savjet"
+
+#: wp-forecast-admin.php:384
+msgid "Global Settings"
+msgstr ""
+
+#: wp-forecast-admin.php:387
+msgid "How many wp-forecast widgets would you like?"
+msgstr "Koliko dodataka hoćete?"
+
+#: wp-forecast-admin.php:400
+msgid "Delete options during plugin deactivation?"
+msgstr "Obrisati opcije prilikom dektivacije?"
+
+#: wp-forecast-admin.php:409
+msgid "API key to use location from ipstack.com "
+msgstr ""
+
+#: wp-forecast-admin.php:414
+msgid "Do not load default CSS"
+msgstr ""
+
+#: wp-forecast-admin.php:424
+#, fuzzy
+msgid "Update global options"
+msgstr "Opcije ažuriranja"
+
+#: wp-forecast-admin.php:430
+msgid "Check connection to Weatherprovider"
+msgstr "Provjerite vezu k pružatelju usluge"
+
+#: wp-forecast-admin.php:460
+msgid "Select widget"
+msgstr "Odaberi dodatak"
+
+#: wp-forecast-admin.php:717
+msgid "Settings successfully updated"
+msgstr "Podešavanja su uspješno ažurirana."
+
+#: wp-forecast-admin.php:719
+msgid "You have to change a field to update settings."
+msgstr "Morate prvo napraviti izmjenu kako bi izvršili ažuriranje."
+
+#: wp-forecast-admin.php:747
+msgid "WP-Forecast Setup"
+msgstr "WP-Forecast podešavanja."
+
+#: wp-forecast-admin.php:755
+msgid ""
+"wp-forecast supports the free API from OpenMeteo, the OpenWeatherMap v2.5 "
+"FreeAPI or OneCall API v3. If you use OpenWeatherMap v3 please check if your "
+"plan includes the OneCall API."
+msgstr ""
+
+#: wp-forecast-admin.php:756
+msgid "Weatherservice"
+msgstr "Izaberite servis"
+
+#: wp-forecast-admin.php:763
+#, fuzzy
+msgid "OpenWeathermap"
+msgstr "Prognoza"
+
+#: wp-forecast-admin.php:769
+#, fuzzy
+msgid "OpenWeatherMap v3"
+msgstr "Prognoza"
+
+#: wp-forecast-admin.php:776
+msgid "Open-Meteo"
+msgstr ""
+
+#: wp-forecast-admin.php:779
+msgid "API-Key"
+msgstr ""
+
+#: wp-forecast-admin.php:783
+msgid "Location"
+msgstr "Lokacija"
+
+#: wp-forecast-admin.php:798
+#, fuzzy
+msgid "Use visitors location"
+msgstr "Postavi lokaciju"
+
+#: wp-forecast-admin.php:801
+msgid "Latitude"
+msgstr ""
+
+#: wp-forecast-admin.php:805
+msgid "Longitude"
+msgstr ""
+
+#: wp-forecast-admin.php:809
+msgid "Locationname"
+msgstr "Lokacija"
+
+#: wp-forecast-admin.php:811
+msgid "Refresh cache after"
+msgstr "Osvježi privremeni spremnik nakon"
+
+#: wp-forecast-admin.php:813
+msgid "secs."
+msgstr "sek"
+
+#: wp-forecast-admin.php:819
+msgid "Use metric units"
+msgstr "Korisiti metričke jedinice"
+
+#: wp-forecast-admin.php:828
+msgid "Use current time"
+msgstr "Koristi trenutno vrijeme"
+
+#: wp-forecast-admin.php:829
+msgid "Time-Offset"
+msgstr "Vremenska razlika"
+
+#: wp-forecast-admin.php:830
+msgid "minutes"
+msgstr "minuta"
+
+#: wp-forecast-admin.php:833
+msgid "Windspeed-Unit"
+msgstr "Jedinica za mjerenje brzine vijetra"
+
+#: wp-forecast-admin.php:839
+msgid "Meter/Second (m/s)"
+msgstr "Metar u sekundi (m/s)"
+
+#: wp-forecast-admin.php:845
+msgid "Kilometer/Hour (km/h)"
+msgstr "Kilometar na sat(km/h)"
+
+#: wp-forecast-admin.php:851
+msgid "Miles/Hour (mph)"
+msgstr "Milja na sat (mph)"
+
+#: wp-forecast-admin.php:857
+msgid "Knots (kts)"
+msgstr "Čvorovi (kts)"
+
+#: wp-forecast-admin.php:863
+msgid "Beaufort (bft)"
+msgstr "Beaufort (bft)"
+
+#: wp-forecast-admin.php:870
+msgid "Language"
+msgstr "Jezik"
+
+#: wp-forecast-admin.php:894
+msgid "Show forecast as ajax pull-down"
+msgstr "Prikaži prognozu sa ajax padajućim izbornikom"
+
+#: wp-forecast-admin.php:898
+msgid "First day in pull-down"
+msgstr "Prvi dan u padajućem izborniku"
+
+#: wp-forecast-admin.php:917
+msgid "Use weatherfont for icons"
+msgstr ""
+
+#: wp-forecast-admin.php:919
+msgid "Choose color for weatherfont icons"
+msgstr ""
+
+#: wp-forecast-admin.php:928
+msgid "Show wind condition as icon"
+msgstr "Prikaži podatke o vjetru kao ikonu"
+
+#: wp-forecast-admin.php:935
+msgid "Use CSS-Sprites for showing icons"
+msgstr "Koristi CSS spriteove kod prikaza ikona"
+
+#: wp-forecast-admin.php:941
+msgid "Display Configuration"
+msgstr "Prikaz Konfiguracije"
+
+#: wp-forecast-admin.php:945
+msgid "Current Conditions"
+msgstr "Trenutni uvjeti"
+
+#: wp-forecast-admin.php:946
+msgid "Forecast Day"
+msgstr "Prognoza za Dan"
+
+#: wp-forecast-admin.php:947
+msgid "Forecast Night"
+msgstr "Prognoza za Noć"
+
+#: wp-forecast-admin.php:950
+msgid "Icon"
+msgstr "Ikonica"
+
+#: wp-forecast-admin.php:971
+msgid "Date"
+msgstr "Datum"
+
+#: wp-forecast-admin.php:982
+msgid "Time"
+msgstr "Vrijeme"
+
+#: wp-forecast-admin.php:993
+msgid "Short Description"
+msgstr "Kratak opis"
+
+#: wp-forecast-admin.php:1014
+msgid "Temperature"
+msgstr "Temperature"
+
+#: wp-forecast-admin.php:1035
+msgid "Realfeel"
+msgstr "Subjektivno"
+
+#: wp-forecast-admin.php:1046 wp-forecast-show.php:249
+msgid "Pressure"
+msgstr "Pritisak"
+
+#: wp-forecast-admin.php:1057 wp-forecast-show.php:259
+msgid "Humidity"
+msgstr "Vlažnost"
+
+#: wp-forecast-admin.php:1068
+msgid "Wind"
+msgstr "Vjetar"
+
+#: wp-forecast-admin.php:1089 wp-forecast-show.php:269 wp-forecast-show.php:453
+#: wp-forecast-show.php:529
+msgid "Windgusts"
+msgstr "Naleti vjetra"
+
+#: wp-forecast-admin.php:1111
+#, fuzzy
+msgid "Precipitation"
+msgstr "Kratak opis"
+
+#: wp-forecast-admin.php:1133 wp-forecast-show.php:274
+msgid "UV-Index"
+msgstr "UV indeks"
+
+#: wp-forecast-admin.php:1155 wp-forecast-show.php:294
+msgid "Sunrise"
+msgstr "Izlazak sunca"
+
+#: wp-forecast-admin.php:1166 wp-forecast-show.php:299
+msgid "Sunset"
+msgstr "Zalazak sunca"
+
+#: wp-forecast-admin.php:1177
+msgid "Copyright"
+msgstr "Copyright"
+
+#: wp-forecast-admin.php:1188
+msgid "Link to Weatherprovider"
+msgstr "Link k pružatelju usluge"
+
+#: wp-forecast-admin.php:1195
+msgid "Open in new Window"
+msgstr "Otvoriti u novom prozoru"
+
+#: wp-forecast-admin.php:1207 wp-forecast-show.php:368
+msgid "Forecast"
+msgstr "Prognoza"
+
+#: wp-forecast-admin.php:1212
+msgid "All"
+msgstr "Sve"
+
+#: wp-forecast-admin.php:1213 wp-forecast-admin.php:1214
+#: wp-forecast-admin.php:1215 wp-forecast-admin.php:1216
+#: wp-forecast-admin.php:1217 wp-forecast-admin.php:1218
+#: wp-forecast-admin.php:1219 wp-forecast-admin.php:1220
+#: wp-forecast-admin.php:1221 wp-forecast-show.php:376
+msgid "Day"
+msgstr "Dan"
+
+#: wp-forecast-admin.php:1223
+msgid "Daytime"
+msgstr "Danju"
+
+#: wp-forecast-admin.php:1280
+msgid "Nighttime"
+msgstr "Noću"
+
+#: wp-forecast-admin.php:1348
+msgid "Use UV-Data from openuv.io"
+msgstr ""
+
+#: wp-forecast-admin.php:1350
+msgid "OpenUV - API-Key"
+msgstr ""
+
+#: wp-forecast-admin.php:1358
+#, fuzzy
+msgid "Show UV-Index"
+msgstr "UV indeks"
+
+#: wp-forecast-admin.php:1365
+#, fuzzy
+msgid "Show max. UV-Index"
+msgstr "Maksimalni UV indeks"
+
+#: wp-forecast-admin.php:1372
+#, fuzzy
+msgid "Show Ozone"
+msgstr "UV indeks"
+
+#: wp-forecast-admin.php:1379
+msgid "Show alternative UV-icons"
+msgstr ""
+
+#: wp-forecast-admin.php:1387
+msgid "Update options"
+msgstr "Opcije ažuriranja"
+
+#: wp-forecast-admin.php:1410 wp-forecast-admin.php:1413
+msgid "Search location"
+msgstr "Pretraži lokaciju"
+
+#: wp-forecast-admin.php:1411
+msgid "Searchterm"
+msgstr "Termin pretrage"
+
+#: wp-forecast-admin.php:1415
+msgid "The search will be performed using OpenMeteo location database."
+msgstr ""
+
+#: wp-forecast-admin.php:1431
+msgid "Connection-check"
+msgstr "Provjera veze"
+
+#: wp-forecast-admin.php:1434
+msgid ""
+"For OpenWeatherMap please enter your API-Key for Widget A before starting "
+"the connection test."
+msgstr ""
+
+#: wp-forecast-admin.php:1439
+msgid "Select weatherprovider"
+msgstr "Odaberite pružatelja usluge"
+
+#: wp-forecast-admin.php:1448
+msgid "Start check"
+msgstr "Početak provjere"
+
+#: wp-forecast-admin.php:1450
+msgid "Close"
+msgstr "Zatvori"
+
+#: wp-forecast-admin.php:1483
+msgid ""
+"If you are looking for instructions or help on wp-forecast, \n"
+"   please use the following ressources. If you are stuck you can \n"
+"   always write an email to"
+msgstr ""
+"Ako trebate pomoć ili upute za korištenje dodatka wp-forecast, \n"
+"molimo vas koristite navedene web adrese. Ako ste ozbiljno zaglavili \n"
+"možete uvijek poslati e-mail na adresu "
+
+#: wp-forecast-admin.php:1492
+msgid "English Manual"
+msgstr "Upute na engleskom"
+
+#: wp-forecast-admin.php:1495
+msgid "German Manual"
+msgstr "Upute na njemačkom"
+
+#: wp-forecast-admin.php:1498
+msgid "Checklist for connection test"
+msgstr "Provjerite vezu"
+
+#: wp-forecast-admin.php:1501
+msgid "wp-forecast on WordPress.org"
+msgstr "wp-forecast na WordPress.org"
+
+#: wp-forecast-admin.php:1504
+msgid "German wp-forecast Site"
+msgstr "Njemačka wp-forecast stranica"
+
+#: wp-forecast-admin.php:1507
+msgid "Using wp-forecast with WPML (german)"
+msgstr "Korištenje wp-forecast u kombinaciji s WPML (na njemačkom)"
+
+#: wp-forecast-admin.php:1510
+msgid "Changelog"
+msgstr "Izmjene"
+
+#: wp-forecast-admin.php:1513
+#, fuzzy
+msgid "Links will open in new Window/Tab."
+msgstr "Otvoriti u novom prozoru"
+
+#: wp-forecast-admin.php:1522
+#, fuzzy
+msgid "wp-forecast Help"
+msgstr "prognoza %s"
+
+#: wp-forecast-show.php:68
+msgid "Locations:"
+msgstr "Lokacije:"
+
+#: wp-forecast-show.php:98
+msgid "Failure notice from provider"
+msgstr "Obavještenje o neuspjehu od provajdera"
+
+#: wp-forecast-show.php:112
+msgid "Sorry, no valid weather data available."
+msgstr "Nema podataka o vremenu"
+
+#: wp-forecast-show.php:113
+msgid "Please try again later."
+msgstr "Molimo, pokušajte kasnije."
+
+#: wp-forecast-show.php:244
+msgid "Apparent"
+msgstr ""
+
+#: wp-forecast-show.php:264 wp-forecast-show.php:435 wp-forecast-show.php:524
+#, fuzzy
+msgid "Winds"
+msgstr "Vjetar"
+
+#: wp-forecast-show.php:289 wp-forecast-show.php:449
+#, fuzzy
+msgid "Precip."
+msgstr "Kratak opis"
+
+#: wp-forecast-show.php:306
+#, fuzzy
+msgid "Current UV index"
+msgstr "UV indeks"
+
+#: wp-forecast-show.php:310
+#, fuzzy
+msgid "Max. UV index"
+msgstr "Maksimalni UV indeks"
+
+#: wp-forecast-show.php:458
+#, fuzzy
+msgid "max. UV index"
+msgstr "Maksimalni UV indeks"
+
+#: wp-forecast-show.php:468
+#, fuzzy
+msgid "Night"
+msgstr "Noć"
+
+#: wp-forecast-show.php:534
+msgid "max. UV-Index"
+msgstr "Maksimalni UV indeks"
+
+#: wp-forecast-show.php:555 wp-forecast-show.php:556
+msgid "Less forecast..."
+msgstr "Smanjen prikaz..."
+
+#: wp-forecast-show.php:557
+msgid "More forecast..."
+msgstr "Više prognoze..."
+
+#: wp-forecast.php:428
+#, php-format
+msgid "wp-forecast %s"
+msgstr "prognoza %s"
+
+#: wp-forecast.php:432
+#, fuzzy, php-format
+msgid "wp-forecast-uv %s"
+msgstr "prognoza %s"
+
+#: wpf-setup.php:112
+msgid "The Weather"
+msgstr "Prognoza"
+
+#~ msgid "Timeout for weatherprovider connections (secs.)?"
+#~ msgstr "Timeout za konekciju k provajderu (sek.)?"
+
+#, fuzzy
+#~ msgid "Preselect WordPress transfer method"
+#~ msgstr "Odaberite wordpress transfer metodu"
+
+#~ msgid "default"
+#~ msgstr "zadano"
+
+#~ msgid "flik"
+#~ msgstr "Subjektivno"
+
+#~ msgid "barr"
+#~ msgstr "Trenutni pritisak"
+
+#~ msgid "hmid"
+#~ msgstr "Vlažnost"
+
+#~ msgid "winds"
+#~ msgstr "Brzina vjetra"
+
+#~ msgid "sunrise"
+#~ msgstr "Izlazak sunca"
+
+#~ msgid "sunset"
+#~ msgstr "Zalazak sunca"
+
+#~ msgid "day"
+#~ msgstr "Dan"
+
+#, fuzzy
+#~ msgid "fog"
+#~ msgstr "Magla"
+
+#~ msgid "loc"
+#~ msgstr "Lokacija"
+
+#~ msgid "01"
+#~ msgstr "Sunčano"
+
+#~ msgid "02"
+#~ msgstr "Uglavnom sunčano"
+
+#~ msgid "03"
+#~ msgstr "Mjestimično sunčano"
+
+#~ msgid "04"
+#~ msgstr "Sunčano s povremenom naoblakom"
+
+#~ msgid "05"
+#~ msgstr "Uglavnom sunčano, s mogućom prolaznom naoblakom"
+
+#~ msgid "06"
+#~ msgstr "Uglavnom oblačno"
+
+#~ msgid "07"
+#~ msgstr "Oblačno"
+
+#~ msgid "08"
+#~ msgstr "Umjereno do znatno oblačno!"
+
+#~ msgid "11"
+#~ msgstr "Moguća pojava magle"
+
+#~ msgid "12"
+#~ msgstr "Mogući pljuskovi"
+
+#~ msgid "13"
+#~ msgstr "Uglavnom oblačno s mogućim pljuskovima"
+
+#~ msgid "14"
+#~ msgstr "Pretežno lijepo vrijeme, s mogućim padalinama"
+
+#~ msgid "15"
+#~ msgstr "Moguća grmljavina"
+
+#~ msgid "16"
+#~ msgstr "Umjereno oblačno. Moguća grmljavina."
+
+#~ msgid "17"
+#~ msgstr ""
+#~ "Umjereno oblačno. Smjena kišnih i suhih intervala. Moguća grmljavina."
+
+#~ msgid "18"
+#~ msgstr "Kišovito"
+
+#~ msgid "19"
+#~ msgstr "Naleti vjetra"
+
+#~ msgid "20"
+#~ msgstr "Uglavnom oblačno s naletima vjetra"
+
+#~ msgid "21"
+#~ msgstr "Uglavnom lijepo vreme s mogućim naletima vjetra"
+
+#~ msgid "22"
+#~ msgstr "Snijeg"
+
+#~ msgid "23"
+#~ msgstr "Uglavnim oblačno s mogućim snijegom"
+
+#~ msgid "24"
+#~ msgstr "Uglavnom hladno vrijeme, poledica"
+
+#~ msgid "25"
+#~ msgstr "Susnježica"
+
+#~ msgid "26"
+#~ msgstr "Moguća ledena kiša"
+
+#~ msgid "29"
+#~ msgstr "Kiša i snijeg"
+
+#~ msgid "30"
+#~ msgstr "Veoma toplo vrijeme"
+
+#~ msgid "31"
+#~ msgstr "Veoma hladno vrijeme"
+
+#~ msgid "32"
+#~ msgstr "Vjetrovito"
+
+#~ msgid "33"
+#~ msgstr "Bez padalina"
+
+#~ msgid "34"
+#~ msgstr "Uglavnom bez padalina"
+
+#~ msgid "35"
+#~ msgstr "Djelimično oblačno"
+
+#~ msgid "36"
+#~ msgstr "Mjestimično oblačno"
+
+#~ msgid "37"
+#~ msgstr "Izmaglica"
+
+#~ msgid "38"
+#~ msgstr "Uglavnom oblačno"
+
+#~ msgid "39"
+#~ msgstr "Umjereno do znatno oblačno s pljuskovima"
+
+#~ msgid "40"
+#~ msgstr "Umjereno oblačno s pljuskovima"
+
+#~ msgid "41"
+#~ msgstr "Umjereno oblačno s mogućom grmljavinom"
+
+#~ msgid "42"
+#~ msgstr "Uglavnom oblačno s grmljavinom"
+
+#~ msgid "43"
+#~ msgstr "Uglavnom oblačno i vjetrovito"
+
+#~ msgid "44"
+#~ msgstr "Uglavnom oblačno sa snijegom"
+
+#~ msgid "Monday"
+#~ msgstr "Ponedjeljak"
+
+#~ msgid "Tuesday"
+#~ msgstr "Utorak"
+
+#~ msgid "Wednesday"
+#~ msgstr "Srijeda"
+
+#~ msgid "Thursday"
+#~ msgstr "Četvrtak"
+
+#~ msgid "Friday"
+#~ msgstr "Petak"
+
+#~ msgid "Saturday"
+#~ msgstr "Subota"
+
+#~ msgid "Sunday"
+#~ msgstr "Nedjelja"
+
+#~ msgid "N"
+#~ msgstr "S"
+
+#~ msgid "E"
+#~ msgstr "I"
+
+#~ msgid "W"
+#~ msgstr "Z"
+
+#~ msgid "S"
+#~ msgstr "J"
+
+#~ msgid "30% Chance Drizzle"
+#~ msgstr "30% šanse za sitnu kišu"
+
+#~ msgid "30% Chance Freezing Drizzle"
+#~ msgstr "30% šanse za hladnu sitnu kišu"
+
+#~ msgid "30% Chance Freezing Rain"
+#~ msgstr "30% šanse za hladnu kišu"
+
+#~ msgid "30% Chance Frozen Drizzle"
+#~ msgstr "30% šanse za ledenu sitnu kišu"
+
+#~ msgid "30% Chance Frozen Mix"
+#~ msgstr "30% šanse za hladne kišne padaline"
+
+#~ msgid "30% Chance Rain Shower"
+#~ msgstr "30% šanse za pljuskove"
+
+#~ msgid "30% Chance Snow Shower"
+#~ msgstr "30% šanse za snijeg"
+
+#~ msgid "30% Chance of Drizzle"
+#~ msgstr "30% šanse za sitnu kišu"
+
+#~ msgid "30% Chance of Flurry"
+#~ msgstr "30% šanse za povremene padaline"
+
+#~ msgid "30% Chance of Frozen Mix"
+#~ msgstr "30% šanse za hladne padaline"
+
+#~ msgid "30% Chance of Light Snow"
+#~ msgstr "30% šanse za manje sniježne padaline"
+
+#~ msgid "30% Chance of Rain"
+#~ msgstr "30% šanse za kišu"
+
+#~ msgid "30% Chance of Sleet"
+#~ msgstr "30% šanse za susnježicu"
+
+#~ msgid "30% Chance of Snow"
+#~ msgstr "30% šanse za snijeg"
+
+#~ msgid "30% Chance of Storms"
+#~ msgstr "30% šanse za oluju"
+
+#~ msgid "40% Chance Drizzle"
+#~ msgstr "40% šanse za sitnu kišu"
+
+#~ msgid "40% Chance Fozen Drizzle"
+#~ msgstr "40% šanse za sitnu ledenu kišu"
+
+#~ msgid "40% Chance Freezing Drizzle"
+#~ msgstr "40% šanse za sitnu hladnu kišu"
+
+#~ msgid "40% Chance Freezing Rain"
+#~ msgstr "40% šanse za ledenu kišu"
+
+#~ msgid "40% Chance Frozen Drizzle"
+#~ msgstr "40% šanse za sitnu ledenu kišu"
+
+#~ msgid "40% Chance Frozen Mix"
+#~ msgstr "40% šanse za hladne kišne padaline"
+
+#~ msgid "40% Chance Rain Shower"
+#~ msgstr "40% šanse za pljuskove"
+
+#~ msgid "40% Chance Snow Shower"
+#~ msgstr "40% šanse za pljuskove"
+
+#~ msgid "40% Chance of Drizzle"
+#~ msgstr "40% šanse za sitnu kišu"
+
+#~ msgid "40% Chance of Flurry"
+#~ msgstr "40% šanse za povremene padaline"
+
+#~ msgid "40% Chance of Frozen Mix"
+#~ msgstr "40% šanse za ledene padaline"
+
+#~ msgid "40% Chance of Light Snow"
+#~ msgstr "40% šanse za manje snježne padaline"
+
+#~ msgid "40% Chance of Rain"
+#~ msgstr "40% šanse za kišu"
+
+#~ msgid "40% Chance of Sleet"
+#~ msgstr "40% šanse za susnježicu"
+
+#~ msgid "40% Chance of Snow"
+#~ msgstr "40% šanse za snijeg"
+
+#~ msgid "40% Chance of Storms"
+#~ msgstr "40% šanse za oluju"
+
+#~ msgid "50% Chance Freezing Drizzle"
+#~ msgstr "50% šanse za sitnu hladnu kišu"
+
+#~ msgid "50% Chance Freezing Rain"
+#~ msgstr "50% šanse za hladnu kišu"
+
+#~ msgid "50% Chance Rain Shower"
+#~ msgstr "50% šanse za pljuskove"
+
+#~ msgid "50% Chance Snow Shower"
+#~ msgstr "50% šanse za jake snježne padaline"
+
+#~ msgid "50% Chance of Drizzle"
+#~ msgstr "50% šanse za sitnu kišu"
+
+#~ msgid "50% Chance of Flurry"
+#~ msgstr "50% šanse za povremene padaline"
+
+#~ msgid "50% Chance of Frozen Mix"
+#~ msgstr "50% šanse za ledene padaline"
+
+#~ msgid "50% Chance of Light Snow"
+#~ msgstr "50% šanse za lagan snijeg"
+
+#~ msgid "50% Chance of Rain"
+#~ msgstr "50% šanse za kišu"
+
+#~ msgid "50% Chance of Sleet"
+#~ msgstr "50% šanse za susnježicu"
+
+#~ msgid "50% Chance of Snow"
+#~ msgstr "50% šanse za snijeg"
+
+#~ msgid "50% Chance of Storms"
+#~ msgstr "50% šanse za oluju"
+
+#~ msgid "Chance Freezing Drizzle"
+#~ msgstr "Moguća sitna hladna kiša"
+
+#~ msgid "Chance Freezing Rain"
+#~ msgstr "Moguća ledena kiša"
+
+#~ msgid "Chance Rain Shower"
+#~ msgstr "Mogući pljuskovi"
+
+#~ msgid "Chance Snow Shower"
+#~ msgstr "Moguće snježne padaline"
+
+#~ msgid "Chance of Drizzle"
+#~ msgstr "Moguća sitna kiša"
+
+#~ msgid "Chance of Flurry"
+#~ msgstr "Moguće povremene padaline"
+
+#~ msgid "Chance of Freezing Drizzle"
+#~ msgstr "Moguća sitna ledena kiša"
+
+#~ msgid "Chance of Frozen Drizzle"
+#~ msgstr "Moguća sitna ledena kiša"
+
+#~ msgid "Chance of Frozen Mix"
+#~ msgstr "Moguća sitna kiša i poledica"
+
+#~ msgid "Chance of Light Snow"
+#~ msgstr "Moguć lagan snijeg"
+
+#~ msgid "Chance of Rain"
+#~ msgstr "Moguća kiša"
+
+#~ msgid "Chance of Rain Showers"
+#~ msgstr "Mogući pljuskovi"
+
+#~ msgid "Chance of Sleet "
+#~ msgstr "Moguća susnježica"
+
+#~ msgid "Chance of Snow"
+#~ msgstr "Moguć snijeg"
+
+#~ msgid "Chance of Snow Showers"
+#~ msgstr "Moguć jak snijeg"
+
+#~ msgid "Chance of Storms"
+#~ msgstr "Moguća oluja"
+
+#~ msgid "Clear"
+#~ msgstr "Vedro"
+
+#~ msgid "Clearing"
+#~ msgstr "Razvedravanje"
+
+#~ msgid "Cloudy"
+#~ msgstr "Oblačno"
+
+#~ msgid "Fair"
+#~ msgstr "Vedro"
+
+#~ msgid "Flurries"
+#~ msgstr "Povremene padaline"
+
+#~ msgid "Foggy"
+#~ msgstr "Maglovito"
+
+#~ msgid "Freezing Drizzle"
+#~ msgstr "Hladna sitna kiša"
+
+#~ msgid "Frozen Mix"
+#~ msgstr "Hladne padaline"
+
+#~ msgid "Hazy"
+#~ msgstr "Maglovito"
+
+#~ msgid "Headline"
+#~ msgstr "Naslov"
+
+#~ msgid "Heavy Rain"
+#~ msgstr "Jaka kiša"
+
+#~ msgid "Hot and Humid"
+#~ msgstr "Toplo i vlažno"
+
+#~ msgid "Mostly Cloudy"
+#~ msgstr "Uglavnom oblačno"
+
+#~ msgid "Mostly Sunny"
+#~ msgstr "Uglavnom sunčano"
+
+#~ msgid "Nowcast"
+#~ msgstr "Trenutno"
+
+#~ msgid "Partly Cloudy"
+#~ msgstr "Djelimično oblačno"
+
+#~ msgid "Partly Sunny"
+#~ msgstr "Djelimično sunčano"
+
+#~ msgid "Scattered Thunderstorms"
+#~ msgstr "Mjestimična grmljavina"
+
+#~ msgid "Sunny"
+#~ msgstr "Sunčano"
+
+#~ msgid "Unknown"
+#~ msgstr "Nepoznato"
+
+#~ msgid "Very Cold"
+#~ msgstr "Veoma hladno"
+
+#~ msgid "Very Hot"
+#~ msgstr "Veoma toplo"
+
+#~ msgid "Warm and Humid"
+#~ msgstr "Toplo i vlažno"
+
+#~ msgid "Windy"
+#~ msgstr "Vjetrovito"
+
+#, fuzzy
+#~ msgid "Press Update options to save new location and update coordinates."
+#~ msgstr "Kliknite na Update kako bi sačuvali novu lokaciju."
+
+#~ msgid "AccuWeather"
+#~ msgstr "AccuWeather"
+
+#~ msgid "Please replace german Umlaute ä,ö,ü with a, o, u in your searchterm."
+#~ msgstr ""
+#~ "Slova kao što su č, ž, š, đ, ć zamijenite sa c, s, dj, u vašem sistemu "
+#~ "pretrage."
+
+#, fuzzy
+#~ msgid "Accuweather Hits"
+#~ msgstr "AccuWeather"
+
+#, fuzzy
+#~ msgid "Light Precipitation"
+#~ msgstr "Kratak opis"
+
+#, fuzzy
+#~ msgid "Heavy Precipitation"
+#~ msgstr "Jaka kiša"
+
+#, fuzzy
+#~ msgid "Possible Drizzle"
+#~ msgstr "Sitna kiša"
+
+#, fuzzy
+#~ msgid "Heavy Sleet"
+#~ msgstr "Jak snijeg"
+
+#, fuzzy
+#~ msgid "Possible Flurries"
+#~ msgstr "Povremene padaline"
+
+#, fuzzy
+#~ msgid "Possible Light Snow"
+#~ msgstr "Lagan snijeg"
+
+#, fuzzy
+#~ msgid "Humid and Partly Cloudy"
+#~ msgstr "Djelimično oblačno"
+
+#, fuzzy
+#~ msgid "Possible Thunderstorms"
+#~ msgstr "Grmljavina"
+
+#, fuzzy
+#~ msgid "Heavy Rain and Thunderstorms"
+#~ msgstr "Grmljavina"
+
+#, fuzzy
+#~ msgid "sleet"
+#~ msgstr "Susnježica"
+
+#~ msgid "Save"
+#~ msgstr "Spremi"
+
+#~ msgid ""
+#~ "wp-forecast plugin not found. Please install and activate wp-forecast."
+#~ msgstr ""
+#~ "wp-forecast dodatak nije nađen. Molim vas instalirajte i aktivirajte wp-"
+#~ "forecast dodatak."
+
+#~ msgid "Check the colored checkboxes to user enable the options"
+#~ msgstr "Označite obojena polja kako bi omogućili opcije"
+
+#~ msgid "Maximal number of widgets per user"
+#~ msgstr "Broj dodataka po korisiniku"
+
+#~ msgid "Delete SuperAdmin options"
+#~ msgstr "Obiriši SuperAdmin postavke"
+
+#~ msgid "Delete SA-Options"
+#~ msgstr "Obiriši SuperAdmin postavke"
+
+#~ msgid "Widget-Setup"
+#~ msgstr "Dodatak-Podešavanje"
+
+#~ msgid "Partner-ID"
+#~ msgstr "Partner-ID"
+
+#~ msgid "Licensekey"
+#~ msgstr "Licenca"
+
+#~ msgid "Press Update options to save new location."
+#~ msgstr "Kliknite na Update kako bi sačuvali novu lokaciju."
+
+#~ msgid "Partner ID"
+#~ msgstr "ID partnera"
+
+#~ msgid "No WeatherBug Partner-ID given. WeatherBug will not be searched."
+#~ msgstr ""
+#~ "Nije upisan WeatherBug Partner-ID. Pretraga u tom servisu nije moguća."
+
+#~ msgid ""
+#~ "Enter a correct Partner-ID in the admin panel and save it to search "
+#~ "WeatherBug."
+#~ msgstr "Upišite ispravni Partner-ID kako bi pretraživali WeatherBug"
+
+#~ msgid "WeatherBug"
+#~ msgstr "WeatherBug"
+
+#~ msgid "Location does not exist"
+#~ msgstr "Lokacija ne postoji"
+
+#~ msgid "GoogleWeather"
+#~ msgstr "Google Prognoza"
+
+#, fuzzy
+#~ msgid "WeatherBug Hits"
+#~ msgstr "WeatherBug"
+
+#~ msgid ""
+#~ "Google does not support searching for locations. Only Accuweather and "
+#~ "WeatherBug will be searched."
+#~ msgstr ""
+#~ "Google ne podržava pretragu lokacija. Pretražujem samo Accuweather i "
+#~ "Weatherbug."
+
+#~ msgid "No locations found."
+#~ msgstr "Lokacija nije nadjenja"
+
+#~ msgid "Weather.com"
+#~ msgstr "Weather.com"
+
+#~ msgid "tmp"
+#~ msgstr "current temperature"
+
+#~ msgid "Accuweather failure notice"
+#~ msgstr "Accuweather failure notice"

@@ -1,0 +1,142 @@
+# Translation of Plugins - 3CX Free Live Chat, Calls &amp; Messaging - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - 3CX Free Live Chat, Calls &amp; Messaging - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-05-12 07:40:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - 3CX Free Live Chat, Calls &amp; Messaging - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: wp-live-chat-support.php
+msgid "https://www.3cx.com/live-chat/free-wordpress-plugin/"
+msgstr "https://www.3cx.fr/live-chat/plugin-wordpress-gratuit/"
+
+#: wp-live-chat-support.php:104
+msgid "Enable Live Chat"
+msgstr "Activer le Live Chat"
+
+#: wp-live-chat-support.php:103
+msgid "Free Live Chat with web visitors with 3CX Live Chat!"
+msgstr "Discussions en direct avec les visiteurs web avec le Live Chat 3CX !"
+
+#: wp-live-chat-support.php:97
+msgid "Configure"
+msgstr "Configurer"
+
+#: wp-live-chat-support.php:96
+msgid "Receive calls from your unique link with 3CX Talk."
+msgstr "Recevez des appels depuis votre lien unique avec le 3CX Talk."
+
+#: wp-live-chat-support.php:90
+msgid "Activate Now"
+msgstr "Activer maintenant"
+
+#: wp-live-chat-support.php:89
+msgid "Call & message for free with 3CX SMB!"
+msgstr "Appelez & discutez gratuitement avec le 3CX SMB !"
+
+#: admin/class-wplc-plugin-settings.php:293
+msgid "Check your email %s and click on the activation URL to complete your 3CX setup."
+msgstr "Vérifiez votre e-mail %s et cliquez sur l’URL d’activation pour terminer la configuration de votre 3CX."
+
+#: admin/class-wplc-plugin-settings.php:287
+msgid "Setup with email"
+msgstr "Configurer avec votre e-mail"
+
+#: admin/class-wplc-plugin-settings.php:284
+msgid "Setup with Google"
+msgstr "Configurer avec Google"
+
+#: admin/class-wplc-plugin-settings.php:282
+msgid "Free Calls & Live Chats"
+msgstr "Appels & discussions en direct gratuits"
+
+#: admin/class-wplc-plugin-settings.php:281
+msgid "SETUP YOUR FREE 3CX ACCOUNT"
+msgstr "Configurez votre compte 3CX gratuit"
+
+#: admin/class-wplc-plugin-settings.php:279
+msgid "Activate your Live Chat Plugin. Simply setup a 3CX account - includes free calls & video calls too."
+msgstr "Activez votre extension Live Chat. Configurez simplement un compte 3CX - inclut également les appels & appels vidéo gratuits."
+
+#. Description of the plugin
+#: wp-live-chat-support.php
+msgid "Chat and Call with your web visitors for free. Setup your free 3CX account to activate."
+msgstr "Appelez et discutez avec vos visiteurs web gratuitement. Configurez votre compte 3CX gratuit pour activer."
+
+#: admin/class-wplc-plugin-settings.php:348
+msgid "Reset 3CX Live Chat Configuration"
+msgstr "Réinitialiser la configuration du Live Chat 3CX"
+
+#: admin/class-wplc-plugin-settings.php:310
+msgid "If you want to customize your chat bubble, edit the Live chat in Voice & Chat, press save once done."
+msgstr "Si vous souhaitez personnaliser votre bulle de chat, modifiez le Live Chat dans Voix & Chat, appuyez sur sauvegarder une fois terminé."
+
+#: admin/class-wplc-plugin-settings.php:302
+msgid "Once signup is completed a 3CX Talk URL will be automatically added here. If you skip the signup process and you are already a 3CX customer, login to 3CX Web Client, choose \"Admin\" gear icon on bottom left, go to Voice & Chat and Add Live Chat. Once completed copy link here."
+msgstr "Une fois l’inscription terminée, une URL 3CX Talk sera automatiquement ajoutée ici. Si vous sautez le processus d’inscription et que vous êtes déjà client 3CX, connectez-vous au client web 3CX, choisissez l’icône « Admin » en bas à gauche, allez dans Voix & Chat et Ajouter le Live Chat. Une fois terminé, copiez le lien ici."
+
+#: admin/class-wplc-plugin-settings.php:217
+#: admin/class-wplc-plugin-settings.php:309
+msgid "Customize 3CX Live Chat"
+msgstr "Personnaliser le Live Chat 3CX"
+
+#: admin/class-wplc-plugin-admin.php:98
+msgid "Do you really want to reset 3CX Live Chat Configuration?"
+msgstr "Voulez-vous vraiment réinitialiser la configuration du Live Chat 3CX ?"
+
+#: admin/class-wplc-plugin-settings.php:285
+msgid "OR"
+msgstr "OU"
+
+#: admin/class-wplc-plugin-admin.php:116
+msgid "Setup your free 3CX account"
+msgstr "Configurez votre compte 3CX gratuit"
+
+#: admin/class-wplc-plugin-settings.php:197
+msgid "Get 3CX"
+msgstr "Obtenez 3CX"
+
+#: admin/class-wplc-plugin-settings.php:371
+msgid "Invalid 3CX Talk URL: %s"
+msgstr "URL 3CX Talk invalide : %s"
+
+#: admin/class-wplc-plugin-settings.php:247
+msgid "Show \"Powered By 3CX\""
+msgstr "Afficher « Powered By 3CX »"
+
+#: admin/class-wplc-plugin-settings.php:303
+msgid "Example: %s"
+msgstr "Exemple : %s"
+
+#: admin/class-wplc-plugin-settings.php:237
+msgid "Just these"
+msgstr "Juste celles-ci"
+
+#: admin/class-wplc-plugin-settings.php:227
+msgid "Enable in all pages"
+msgstr "Activer sur toutes les pages"
+
+#: admin/class-wplc-plugin-settings.php:207
+msgid "3CX Talk URL"
+msgstr "URL du 3CX Talk"
+
+#: admin/class-wplc-plugin-settings.php:133
+msgid "3CX Live Chat Options"
+msgstr "Options du Live Chat 3CX"
+
+#. Plugin Name of the plugin
+#: wp-live-chat-support.php
+msgid "3CX Live Chat"
+msgstr "Live Chat 3CX"
+
+#. Author of the plugin
+#: wp-live-chat-support.php
+msgid "3CX"
+msgstr "3CX"

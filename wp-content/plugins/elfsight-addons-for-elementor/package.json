@@ -1,0 +1,34 @@
+{
+    "name": "elfsight-elementor-wp",
+    "version": "1.2.0",
+    "description": "",
+    "scripts": {
+        "dev": "NODE_OPTIONS=--openssl-legacy-provider webpack --mode=development --watch",
+        "production": "NODE_OPTIONS=--openssl-legacy-provider webpack --mode=production"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ssh://git@gitlab.elfsight.dev:2222/elfsight/codecanyon/embed-wp-elementor.git"
+    },
+    "author": "Elfsight <info@elfsight.com>",
+    "license": "GPL",
+    "homepage": "",
+    "devDependencies": {
+        "@babel/core": "^7.22.9",
+        "@babel/polyfill": "^7.12.1",
+        "@babel/preset-env": "^7.22.9",
+        "@babel/runtime": "^7.22.6",
+        "babel-loader": "^8.0.6",
+        "copy-webpack-plugin": "^5.1.1",
+        "webpack": "^4.41.2",
+        "webpack-cli": "^3.3.10",
+        "css-loader": "^0.28.9",
+        "style-loader": "^0.19.0",
+        "stylus": "^0.54.7",
+        "stylus-loader": "^3.0.1",
+        "svg-url-loader": "^3.0.2"
+    },
+    "dependencies": {
+        "@elfsight/embed-sdk": "^0.3.4"
+    }
+}
